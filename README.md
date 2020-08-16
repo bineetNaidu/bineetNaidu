@@ -30,6 +30,11 @@
 <img align="left" padding="0 5px"  alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com//bineetNaidu/zoomClone/issues/1) in [bineetNaidu/zoomClone](https://github.com//bineetNaidu/zoomClone)
+2. ❗️ Opened issue [#1](https://github.com//bineetNaidu/travelZilla/issues/1) in [bineetNaidu/travelZilla](https://github.com//bineetNaidu/travelZilla)
+3. ❗️ Closed issue [#1](https://github.com//bineetNaidu/Socialite/issues/1) in [bineetNaidu/Socialite](https://github.com//bineetNaidu/Socialite)
+4. ❗️ Opened issue [#1](https://github.com//bineetNaidu/Socialite/issues/1) in [bineetNaidu/Socialite](https://github.com//bineetNaidu/Socialite)
+<!--END_SECTION:activity-->
 
 <!--
 **bineetNaidu/bineetNaidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
