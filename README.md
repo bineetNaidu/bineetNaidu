@@ -23,11 +23,12 @@
 <img align="left" padding="0 5px"  alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" padding="0 5px"  alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" padding="0 5px"  alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" padding="0 5px"  alt="ExpressJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" padding="0 5px"  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" padding="0 5px"  alt="sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" padding="0 5px"  alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" padding="0 5px"  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" padding="0 5px"  alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" padding="0 5px"  alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
 <br/>
@@ -36,11 +37,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//bineetNaidu/zoomClone/issues/1) in [bineetNaidu/zoomClone](https://github.com//bineetNaidu/zoomClone)
-2. ❗️ Opened issue [#1](https://github.com//bineetNaidu/travelZilla/issues/1) in [bineetNaidu/travelZilla](https://github.com//bineetNaidu/travelZilla)
-3. ❗️ Closed issue [#1](https://github.com//bineetNaidu/Socialite/issues/1) in [bineetNaidu/Socialite](https://github.com//bineetNaidu/Socialite)
-4. ❗️ Opened issue [#1](https://github.com//bineetNaidu/Socialite/issues/1) in [bineetNaidu/Socialite](https://github.com//bineetNaidu/Socialite)
-<!--END_SECTION:activity-->
+
 
 <!--
 **bineetNaidu/bineetNaidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
