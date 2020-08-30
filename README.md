@@ -2,7 +2,7 @@
 
 ## I'm a passionate Developer
 
--   🔭 I’m currently working on a [E-Commerce](https://github.com/bineetNaidu/E-Commerce-App) app that is done from scratch no frame work no nothing!
+-   🔭 I’m currently working on a [Pizzeria](https://github.com/bineetNaidu/Pizzeria) project with [ReactJs](http://reactjs.org/).
 -   🌱 I’m currently learning everything to make my hand dirty🤣
 -   🥅 2020 Goals: Learn as much as possible
     -   🤔 2021 Goal: contribute more to Open Source project
