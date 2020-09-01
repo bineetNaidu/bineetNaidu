@@ -37,6 +37,9 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com//bineetNaidu/zoomClone/issues/1) in [bineetNaidu/zoomClone](https://github.com//bineetNaidu/zoomClone)
+2. ❗️ Opened issue [#1](https://github.com//bineetNaidu/travelZilla/issues/1) in [bineetNaidu/travelZilla](https://github.com//bineetNaidu/travelZilla)
+<!--END_SECTION:activity-->
 1. 
 
 
