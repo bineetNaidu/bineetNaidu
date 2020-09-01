@@ -2,7 +2,7 @@
 
 ## I'm a passionate Developer
 
--   🔭 I’m currently working on a [Pizzeria](https://github.com/bineetNaidu/Pizzeria) project with [ReactJs](http://reactjs.org/).
+-   🔭 I’m currently working on a [UI-Colors-App](https://github.com/bineetNaidu/UI-Colors-App) project with [ReactJs](http://reactjs.org/).
 -   🌱 I’m currently learning everything to make my hand dirty🤣
 -   🥅 2020 Goals: Learn as much as possible
     -   🤔 2021 Goal: contribute more to Open Source project
@@ -37,11 +37,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//bineetNaidu/zoomClone/issues/1) in [bineetNaidu/zoomClone](https://github.com//bineetNaidu/zoomClone)
-2. ❗️ Opened issue [#1](https://github.com//bineetNaidu/travelZilla/issues/1) in [bineetNaidu/travelZilla](https://github.com//bineetNaidu/travelZilla)
-3. ❗️ Closed issue [#1](https://github.com//bineetNaidu/Socialite/issues/1) in [bineetNaidu/Socialite](https://github.com//bineetNaidu/Socialite)
-4. ❗️ Opened issue [#1](https://github.com//bineetNaidu/Socialite/issues/1) in [bineetNaidu/Socialite](https://github.com//bineetNaidu/Socialite)
-<!--END_SECTION:activity-->
+1. 
 
 
 <!--
