@@ -37,8 +37,8 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//bineetNaidu/zoomClone/issues/1) in [bineetNaidu/zoomClone](https://github.com//bineetNaidu/zoomClone)
-2. ❗️ Opened issue [#1](https://github.com//bineetNaidu/travelZilla/issues/1) in [bineetNaidu/travelZilla](https://github.com//bineetNaidu/travelZilla)
+1. 🎉 Merged PR [#1](https://github.com//bineetNaidu/surf-shop/pull/1) in [bineetNaidu/surf-shop](https://github.com//bineetNaidu/surf-shop)
+2. 🎉 Merged PR [#1](https://github.com//bineetNaidu/StoriesBook/pull/1) in [bineetNaidu/StoriesBook](https://github.com//bineetNaidu/StoriesBook)
 <!--END_SECTION:activity-->
 1. 
 
