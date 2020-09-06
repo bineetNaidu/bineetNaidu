@@ -39,8 +39,7 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com//bineetNaidu/surf-shop/pull/1) in [bineetNaidu/surf-shop](https://github.com//bineetNaidu/surf-shop)
 2. 🎉 Merged PR [#1](https://github.com//bineetNaidu/StoriesBook/pull/1) in [bineetNaidu/StoriesBook](https://github.com//bineetNaidu/StoriesBook)
-<!--END_SECTION:activity-->
-1. 
+<!--END_SECTION:activity--> 
 
 
 <!--
