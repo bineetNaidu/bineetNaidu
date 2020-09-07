@@ -37,8 +37,8 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//bineetNaidu/YelpCamp/pull/1) in [bineetNaidu/YelpCamp](https://github.com//bineetNaidu/YelpCamp)
-2. 🎉 Merged PR [#1](https://github.com//bineetNaidu/surf-shop/pull/1) in [bineetNaidu/surf-shop](https://github.com//bineetNaidu/surf-shop)
+1. 🎉 Merged PR [#1](https://github.com//bineetNaidu/Gitignore/pull/1) in [bineetNaidu/Gitignore](https://github.com//bineetNaidu/Gitignore)
+2. 💪 Opened PR [#1](https://github.com//bineetNaidu/Gitignore/pull/1) in [bineetNaidu/Gitignore](https://github.com//bineetNaidu/Gitignore)
 <!--END_SECTION:activity--> 
 
 
