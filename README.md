@@ -38,8 +38,8 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//bineetNaidu/Gitignore/pull/1) in [bineetNaidu/Gitignore](https://github.com//bineetNaidu/Gitignore)
-2. 💪 Opened PR [#1](https://github.com//bineetNaidu/Gitignore/pull/1) in [bineetNaidu/Gitignore](https://github.com//bineetNaidu/Gitignore)
+1. 🎉 Merged PR [#1](https://github.com/bineetNaidu/Gitignore/pull/1) in [bineetNaidu/Gitignore](https://github.com/bineetNaidu/Gitignore)
+2. 💪 Opened PR [#1](https://github.com/bineetNaidu/Gitignore/pull/1) in [bineetNaidu/Gitignore](https://github.com/bineetNaidu/Gitignore)
 <!--END_SECTION:activity--> 
 
 
