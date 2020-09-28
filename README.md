@@ -2,7 +2,7 @@
 
 ## I'm a passionate Developer
 
--   🔭 I’m currently working on a [UI-Colors-App](https://github.com/bineetNaidu/UI-Colors-App) project with [ReactJs](http://reactjs.org/).
+-   🔭 I’m currently working on a [My-API](https://github.com/bineetNaidu/my-api) project.
 -   🌱 I’m currently learning everything to make my hand dirty🤣
 -   🥅 2020 Goals: Learn as much as possible
     -   🤔 2021 Goal: contribute more to Open Source project
