@@ -38,7 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#208](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/208) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+1. 💪 Opened PR [#44](https://github.com/dannythompson901/Hacktoberfest-FirstPR/pull/44) in [dannythompson901/Hacktoberfest-FirstPR](https://github.com/dannythompson901/Hacktoberfest-FirstPR)
 <!--END_SECTION:activity-->
 
 
