@@ -38,7 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/dannythompson901/Hacktoberfest-FirstPR/pull/44) in [dannythompson901/Hacktoberfest-FirstPR](https://github.com/dannythompson901/Hacktoberfest-FirstPR)
+1. 🗣 Commented on [#1](https://github.com/bineetNaidu/UI-Colors-App/issues/1) in [bineetNaidu/UI-Colors-App](https://github.com/bineetNaidu/UI-Colors-App)
 <!--END_SECTION:activity-->
 
 
