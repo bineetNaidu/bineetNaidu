@@ -38,7 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/bineetNaidu/UI-Colors-App/issues/1) in [bineetNaidu/UI-Colors-App](https://github.com/bineetNaidu/UI-Colors-App)
+1. 🎉 Merged PR [#2](https://github.com/bineetNaidu/UI-Colors-App/pull/2) in [bineetNaidu/UI-Colors-App](https://github.com/bineetNaidu/UI-Colors-App)
 <!--END_SECTION:activity-->
 
 
