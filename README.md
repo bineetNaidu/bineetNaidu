@@ -38,7 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/bineetNaidu/UI-Colors-App/pull/2) in [bineetNaidu/UI-Colors-App](https://github.com/bineetNaidu/UI-Colors-App)
+1. ❗️ Opened issue [#9](https://github.com/pandurijal/todolite/issues/9) in [pandurijal/todolite](https://github.com/pandurijal/todolite)
 <!--END_SECTION:activity-->
 
 
