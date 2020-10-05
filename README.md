@@ -38,7 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/pandurijal/todolite/issues/9) in [pandurijal/todolite](https://github.com/pandurijal/todolite)
+1. ❗️ Opened issue [#1](https://github.com/john-smilga/react-projects-9-color-generator/issues/1) in [john-smilga/react-projects-9-color-generator](https://github.com/john-smilga/react-projects-9-color-generator)
 <!--END_SECTION:activity-->
 
 
