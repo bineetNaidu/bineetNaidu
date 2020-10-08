@@ -38,7 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#305](https://github.com/EddieJaoudeCommunity/support/issues/305) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. ❗️ Opened issue [#6](https://github.com/DreamsOfImran/covid-global/issues/6) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
 <!--END_SECTION:activity-->
 
 
