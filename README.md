@@ -38,7 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/DreamsOfImran/covid-global/issues/10) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
+1. 🗣 Commented on [#3](https://github.com/jain777/JeeDo/issues/3) in [jain777/JeeDo](https://github.com/jain777/JeeDo)
 <!--END_SECTION:activity-->
 
 
