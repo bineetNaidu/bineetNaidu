@@ -38,7 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/DreamsOfImran/covid-global/pull/8) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
+1. 🗣 Commented on [#6](https://github.com/DreamsOfImran/covid-global/issues/6) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
 <!--END_SECTION:activity-->
 
 
