@@ -38,7 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/sumana2001/styles/issues/33) in [sumana2001/styles](https://github.com/sumana2001/styles)
+1. 💪 Opened PR [#34](https://github.com/sumana2001/styles/pull/34) in [sumana2001/styles](https://github.com/sumana2001/styles)
 <!--END_SECTION:activity-->
 
 
