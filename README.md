@@ -38,7 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/jain777/JeeDo/issues/3) in [jain777/JeeDo](https://github.com/jain777/JeeDo)
+1. 🗣 Commented on [#33](https://github.com/sumana2001/styles/issues/33) in [sumana2001/styles](https://github.com/sumana2001/styles)
 <!--END_SECTION:activity-->
 
 
