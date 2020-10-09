@@ -38,7 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/codeclassifiers/react30_3_digital_clock/pull/3) in [codeclassifiers/react30_3_digital_clock](https://github.com/codeclassifiers/react30_3_digital_clock)
+1. 🗣 Commented on [#1](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/1) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
 <!--END_SECTION:activity-->
 
 
