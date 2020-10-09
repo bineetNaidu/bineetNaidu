@@ -38,7 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeclassifiers/react30_3_digital_clock/issues/2) in [codeclassifiers/react30_3_digital_clock](https://github.com/codeclassifiers/react30_3_digital_clock)
+1. 🗣 Commented on [#4](https://github.com/Sushant2/Jungle-Tour/issues/4) in [Sushant2/Jungle-Tour](https://github.com/Sushant2/Jungle-Tour)
 <!--END_SECTION:activity-->
 
 
