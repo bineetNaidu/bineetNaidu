@@ -38,7 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Sushant2/Jungle-Tour/issues/4) in [Sushant2/Jungle-Tour](https://github.com/Sushant2/Jungle-Tour)
+1. 💪 Opened PR [#5](https://github.com/Sushant2/Jungle-Tour/pull/5) in [Sushant2/Jungle-Tour](https://github.com/Sushant2/Jungle-Tour)
 <!--END_SECTION:activity-->
 
 
