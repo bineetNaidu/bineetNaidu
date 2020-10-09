@@ -38,7 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Sushant2/Jungle-Tour/pull/5) in [Sushant2/Jungle-Tour](https://github.com/Sushant2/Jungle-Tour)
+1. 💪 Opened PR [#3](https://github.com/codeclassifiers/react30_3_digital_clock/pull/3) in [codeclassifiers/react30_3_digital_clock](https://github.com/codeclassifiers/react30_3_digital_clock)
 <!--END_SECTION:activity-->
 
 
