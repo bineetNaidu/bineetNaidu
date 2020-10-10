@@ -38,6 +38,12 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#8](https://github.com/GeekHaven/vaprco/issues/8) in [GeekHaven/vaprco](https://github.com/GeekHaven/vaprco)
+2. 🗣 Commented on [#9](https://github.com/GeekHaven/vaprco/issues/9) in [GeekHaven/vaprco](https://github.com/GeekHaven/vaprco)
+3. 🗣 Commented on [#1](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/1) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
+4. 🗣 Commented on [#1](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/1) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
+5. 🗣 Commented on [#9](https://github.com/IshankaDSenevirathne/EduEra/issues/9) in [IshankaDSenevirathne/EduEra](https://github.com/IshankaDSenevirathne/EduEra)
+<!--END_SECTION:activity-->
 
 
 
