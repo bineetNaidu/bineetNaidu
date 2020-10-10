@@ -1,9 +1,9 @@
-### Hi there 👋, I'm Bineet
+### Hi there 👋, I'm [Bineet Naidu](https:///bineetnaidu.web.app)
 
 ## I'm a passionate Developer
 
--   🔭 I’m currently working on a [My-API](https://github.com/bineetNaidu/my-api) project.
--   🌱 I’m currently learning everything to make my hand dirty🤣
+-   🔭 I’m currently working on __#hacktoberfest__.
+-   🌱 I’m currently learning [svelte](https://svelte.dev/).
 -   🥅 2020 Goals: Learn as much as possible
     -   🤔 2021 Goal: contribute more to Open Source project
 -   ⚡ Fun fact: I love to watch and play Football
@@ -38,8 +38,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/1) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
-<!--END_SECTION:activity-->
+
 
 
 
