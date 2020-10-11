@@ -38,11 +38,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/GeekHaven/vaprco/issues/8) in [GeekHaven/vaprco](https://github.com/GeekHaven/vaprco)
-2. 🗣 Commented on [#9](https://github.com/GeekHaven/vaprco/issues/9) in [GeekHaven/vaprco](https://github.com/GeekHaven/vaprco)
-3. 🗣 Commented on [#1](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/1) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
-4. 🗣 Commented on [#1](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/1) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
-5. 🗣 Commented on [#9](https://github.com/IshankaDSenevirathne/EduEra/issues/9) in [IshankaDSenevirathne/EduEra](https://github.com/IshankaDSenevirathne/EduEra)
+1. 🗣 Commented on [#2](https://github.com/osmarpetry/tokens-figma-node/issues/2) in [osmarpetry/tokens-figma-node](https://github.com/osmarpetry/tokens-figma-node)
+2. 🗣 Commented on [#1](https://github.com/AjaySharvesh3/FOSCC-WebApp/issues/1) in [AjaySharvesh3/FOSCC-WebApp](https://github.com/AjaySharvesh3/FOSCC-WebApp)
+3. 🗣 Commented on [#8](https://github.com/GeekHaven/vaprco/issues/8) in [GeekHaven/vaprco](https://github.com/GeekHaven/vaprco)
+4. 🗣 Commented on [#9](https://github.com/GeekHaven/vaprco/issues/9) in [GeekHaven/vaprco](https://github.com/GeekHaven/vaprco)
+5. 🗣 Commented on [#1](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/1) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
 <!--END_SECTION:activity-->
 
 
