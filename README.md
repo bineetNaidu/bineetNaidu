@@ -38,11 +38,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeclassifiers/react30_5_image_gallery_app/issues/2) in [codeclassifiers/react30_5_image_gallery_app](https://github.com/codeclassifiers/react30_5_image_gallery_app)
-2. 🗣 Commented on [#117](https://github.com/KamandPrompt/baat-cheet/issues/117) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
+1. 💪 Opened PR [#119](https://github.com/KamandPrompt/baat-cheet/pull/119) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
+2. 🗣 Commented on [#2](https://github.com/codeclassifiers/react30_5_image_gallery_app/issues/2) in [codeclassifiers/react30_5_image_gallery_app](https://github.com/codeclassifiers/react30_5_image_gallery_app)
 3. 🗣 Commented on [#117](https://github.com/KamandPrompt/baat-cheet/issues/117) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
 4. 🗣 Commented on [#117](https://github.com/KamandPrompt/baat-cheet/issues/117) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
-5. 🗣 Commented on [#2](https://github.com/osmarpetry/tokens-figma-node/issues/2) in [osmarpetry/tokens-figma-node](https://github.com/osmarpetry/tokens-figma-node)
+5. 🗣 Commented on [#117](https://github.com/KamandPrompt/baat-cheet/issues/117) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
 <!--END_SECTION:activity-->
 
 
