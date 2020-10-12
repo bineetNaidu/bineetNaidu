@@ -38,11 +38,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/KamandPrompt/baat-cheet/issues/119) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
-2. 🗣 Commented on [#119](https://github.com/KamandPrompt/baat-cheet/issues/119) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
+1. 🗣 Commented on [#1](https://github.com/codeclassifiers/create_react_projects/issues/1) in [codeclassifiers/create_react_projects](https://github.com/codeclassifiers/create_react_projects)
+2. 🗣 Commented on [#169](https://github.com/adityaarakeri/super-scripts/issues/169) in [adityaarakeri/super-scripts](https://github.com/adityaarakeri/super-scripts)
 3. 🗣 Commented on [#119](https://github.com/KamandPrompt/baat-cheet/issues/119) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
 4. 🗣 Commented on [#119](https://github.com/KamandPrompt/baat-cheet/issues/119) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
-5. 💪 Opened PR [#119](https://github.com/KamandPrompt/baat-cheet/pull/119) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
+5. 🗣 Commented on [#119](https://github.com/KamandPrompt/baat-cheet/issues/119) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
 <!--END_SECTION:activity-->
 
 
