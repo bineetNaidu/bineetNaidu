@@ -41,8 +41,8 @@
 1. 🗣 Commented on [#119](https://github.com/KamandPrompt/baat-cheet/issues/119) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
 2. 🗣 Commented on [#119](https://github.com/KamandPrompt/baat-cheet/issues/119) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
 3. 🗣 Commented on [#119](https://github.com/KamandPrompt/baat-cheet/issues/119) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
-4. 💪 Opened PR [#119](https://github.com/KamandPrompt/baat-cheet/pull/119) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
-5. 🗣 Commented on [#2](https://github.com/codeclassifiers/react30_5_image_gallery_app/issues/2) in [codeclassifiers/react30_5_image_gallery_app](https://github.com/codeclassifiers/react30_5_image_gallery_app)
+4. 🗣 Commented on [#119](https://github.com/KamandPrompt/baat-cheet/issues/119) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
+5. 💪 Opened PR [#119](https://github.com/KamandPrompt/baat-cheet/pull/119) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
 <!--END_SECTION:activity-->
 
 
