@@ -40,9 +40,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/MeghalBisht/Gamergram/issues/3) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
 2. 🗣 Commented on [#3](https://github.com/MeghalBisht/Gamergram/issues/3) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
-3. 🗣 Commented on [#1](https://github.com/codeclassifiers/create_react_projects/issues/1) in [codeclassifiers/create_react_projects](https://github.com/codeclassifiers/create_react_projects)
-4. 🗣 Commented on [#169](https://github.com/adityaarakeri/super-scripts/issues/169) in [adityaarakeri/super-scripts](https://github.com/adityaarakeri/super-scripts)
-5. 🗣 Commented on [#119](https://github.com/KamandPrompt/baat-cheet/issues/119) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
+3. 🗣 Commented on [#3](https://github.com/MeghalBisht/Gamergram/issues/3) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
+4. 🗣 Commented on [#1](https://github.com/codeclassifiers/create_react_projects/issues/1) in [codeclassifiers/create_react_projects](https://github.com/codeclassifiers/create_react_projects)
+5. 🗣 Commented on [#169](https://github.com/adityaarakeri/super-scripts/issues/169) in [adityaarakeri/super-scripts](https://github.com/adityaarakeri/super-scripts)
 <!--END_SECTION:activity-->
 
 
