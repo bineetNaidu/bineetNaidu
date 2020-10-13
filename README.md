@@ -40,8 +40,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/MeghalBisht/Gamergram/issues/6) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
 2. 🗣 Commented on [#6](https://github.com/MeghalBisht/Gamergram/issues/6) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
-3. 💪 Opened PR [#6](https://github.com/MeghalBisht/Gamergram/pull/6) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
-4. 🗣 Commented on [#3](https://github.com/MeghalBisht/Gamergram/issues/3) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
+3. 🗣 Commented on [#6](https://github.com/MeghalBisht/Gamergram/issues/6) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
+4. 💪 Opened PR [#6](https://github.com/MeghalBisht/Gamergram/pull/6) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
 5. 🗣 Commented on [#3](https://github.com/MeghalBisht/Gamergram/issues/3) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
 <!--END_SECTION:activity-->
 
