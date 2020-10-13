@@ -41,8 +41,8 @@
 1. 🗣 Commented on [#3](https://github.com/MeghalBisht/Gamergram/issues/3) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
 2. 🗣 Commented on [#3](https://github.com/MeghalBisht/Gamergram/issues/3) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
 3. 🗣 Commented on [#3](https://github.com/MeghalBisht/Gamergram/issues/3) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
-4. 🗣 Commented on [#1](https://github.com/codeclassifiers/create_react_projects/issues/1) in [codeclassifiers/create_react_projects](https://github.com/codeclassifiers/create_react_projects)
-5. 🗣 Commented on [#169](https://github.com/adityaarakeri/super-scripts/issues/169) in [adityaarakeri/super-scripts](https://github.com/adityaarakeri/super-scripts)
+4. 🗣 Commented on [#3](https://github.com/MeghalBisht/Gamergram/issues/3) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
+5. 🗣 Commented on [#1](https://github.com/codeclassifiers/create_react_projects/issues/1) in [codeclassifiers/create_react_projects](https://github.com/codeclassifiers/create_react_projects)
 <!--END_SECTION:activity-->
 
 
