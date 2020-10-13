@@ -38,11 +38,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/MeghalBisht/Gamergram/issues/3) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
+1. 💪 Opened PR [#6](https://github.com/MeghalBisht/Gamergram/pull/6) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
 2. 🗣 Commented on [#3](https://github.com/MeghalBisht/Gamergram/issues/3) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
 3. 🗣 Commented on [#3](https://github.com/MeghalBisht/Gamergram/issues/3) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
 4. 🗣 Commented on [#3](https://github.com/MeghalBisht/Gamergram/issues/3) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
-5. 🗣 Commented on [#1](https://github.com/codeclassifiers/create_react_projects/issues/1) in [codeclassifiers/create_react_projects](https://github.com/codeclassifiers/create_react_projects)
+5. 🗣 Commented on [#3](https://github.com/MeghalBisht/Gamergram/issues/3) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
 <!--END_SECTION:activity-->
 
 
