@@ -38,11 +38,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/KamandPrompt/baat-cheet/issues/117) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
-2. 🗣 Commented on [#6](https://github.com/MeghalBisht/Gamergram/issues/6) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
+1. ❗️ Opened issue [#2](https://github.com/bineetNaidu/YelpCamp/issues/2) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
+2. 🗣 Commented on [#117](https://github.com/KamandPrompt/baat-cheet/issues/117) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
 3. 🗣 Commented on [#6](https://github.com/MeghalBisht/Gamergram/issues/6) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
 4. 🗣 Commented on [#6](https://github.com/MeghalBisht/Gamergram/issues/6) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
-5. 💪 Opened PR [#6](https://github.com/MeghalBisht/Gamergram/pull/6) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
+5. 🗣 Commented on [#6](https://github.com/MeghalBisht/Gamergram/issues/6) in [MeghalBisht/Gamergram](https://github.com/MeghalBisht/Gamergram)
 <!--END_SECTION:activity-->
 
 
