@@ -2,7 +2,7 @@
 
 ## I'm a passionate Developer
 
--   🔭 I’m currently working on __#hacktoberfest__.
+-   🔭 I’m currently working on [Shopify](https://github.com/bineetNaidu/shopify)
 -   🌱 I’m currently learning [svelte](https://svelte.dev/).
 -   🥅 2020 Goals: Learn as much as possible
     -   🤔 2021 Goal: contribute more to Open Source project
@@ -38,13 +38,6 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/bineetNaidu/YelpCamp/issues/2) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
-2. ❗️ Closed issue [#2](https://github.com/bineetNaidu/YelpCamp/issues/2) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
-3. 🗣 Commented on [#2](https://github.com/bineetNaidu/YelpCamp/issues/2) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
-4. ❗️ Opened issue [#2](https://github.com/bineetNaidu/YelpCamp/issues/2) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
-5. 🗣 Commented on [#117](https://github.com/KamandPrompt/baat-cheet/issues/117) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
-<!--END_SECTION:activity-->
-
 
 
 
