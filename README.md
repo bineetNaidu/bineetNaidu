@@ -2,8 +2,8 @@
 
 ## I'm a passionate Developer
 
--   🔭 I’m currently working on [Shopify](https://github.com/bineetNaidu/shopify)
--   🌱 I’m currently learning [svelte](https://svelte.dev/).
+-   🔭 I’m currently chilling out 😄!
+-   🌱 I’m currently learning [GoLang](http://golang.org/).
 -   🥅 2020 Goals: Learn as much as possible
     -   🤔 2021 Goal: contribute more to Open Source project
 -   ⚡ Fun fact: I love to watch and play Football
