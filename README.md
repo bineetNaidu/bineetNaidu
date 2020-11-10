@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/airbnb/ts-migrate/issues/57) in [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate)
-2. 🗣 Commented on [#57](https://github.com/airbnb/ts-migrate/issues/57) in [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate)
-3. ❗️ Closed issue [#1](https://github.com/bineetNaidu/UI-Colors-App/issues/1) in [bineetNaidu/UI-Colors-App](https://github.com/bineetNaidu/UI-Colors-App)
-4. 🗣 Commented on [#12](https://github.com/codeclassifiers/react30_5_image_gallery_app/issues/12) in [codeclassifiers/react30_5_image_gallery_app](https://github.com/codeclassifiers/react30_5_image_gallery_app)
-5. 🗣 Commented on [#2](https://github.com/bineetNaidu/YelpCamp/issues/2) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
+1. 🎉 Merged PR [#1](https://github.com/bineetNaidu/best-printers/pull/1) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+2. 💪 Opened PR [#1](https://github.com/bineetNaidu/best-printers/pull/1) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+3. 🗣 Commented on [#57](https://github.com/airbnb/ts-migrate/issues/57) in [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate)
+4. 🗣 Commented on [#57](https://github.com/airbnb/ts-migrate/issues/57) in [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate)
+5. ❗️ Closed issue [#1](https://github.com/bineetNaidu/UI-Colors-App/issues/1) in [bineetNaidu/UI-Colors-App](https://github.com/bineetNaidu/UI-Colors-App)
 <!--END_SECTION:activity-->
 
 
