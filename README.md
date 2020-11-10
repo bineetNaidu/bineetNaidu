@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/bineetNaidu/best-printers/pull/2) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
-2. 💪 Opened PR [#2](https://github.com/bineetNaidu/best-printers/pull/2) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
-3. 🎉 Merged PR [#1](https://github.com/bineetNaidu/best-printers/pull/1) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
-4. 💪 Opened PR [#1](https://github.com/bineetNaidu/best-printers/pull/1) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
-5. 🗣 Commented on [#57](https://github.com/airbnb/ts-migrate/issues/57) in [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate)
+1. 🎉 Merged PR [#3](https://github.com/bineetNaidu/best-printers/pull/3) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+2. 💪 Opened PR [#3](https://github.com/bineetNaidu/best-printers/pull/3) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+3. 🎉 Merged PR [#2](https://github.com/bineetNaidu/best-printers/pull/2) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+4. 💪 Opened PR [#2](https://github.com/bineetNaidu/best-printers/pull/2) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+5. 🎉 Merged PR [#1](https://github.com/bineetNaidu/best-printers/pull/1) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
 <!--END_SECTION:activity-->
 
 
