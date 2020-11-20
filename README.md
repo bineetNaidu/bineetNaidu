@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/bineetNaidu/custom-hooks/pull/2) in [bineetNaidu/custom-hooks](https://github.com/bineetNaidu/custom-hooks)
-2. 🎉 Merged PR [#1](https://github.com/bineetNaidu/custom-hooks/pull/1) in [bineetNaidu/custom-hooks](https://github.com/bineetNaidu/custom-hooks)
-3. 🎉 Merged PR [#3](https://github.com/bineetNaidu/custom-hooks/pull/3) in [bineetNaidu/custom-hooks](https://github.com/bineetNaidu/custom-hooks)
-4. 💪 Opened PR [#3](https://github.com/bineetNaidu/custom-hooks/pull/3) in [bineetNaidu/custom-hooks](https://github.com/bineetNaidu/custom-hooks)
-5. 💪 Opened PR [#2](https://github.com/bineetNaidu/custom-hooks/pull/2) in [bineetNaidu/custom-hooks](https://github.com/bineetNaidu/custom-hooks)
+1. 🎉 Merged PR [#1](https://github.com/bineetNaidu/reddit-client/pull/1) in [bineetNaidu/reddit-client](https://github.com/bineetNaidu/reddit-client)
+2. 💪 Opened PR [#1](https://github.com/bineetNaidu/reddit-client/pull/1) in [bineetNaidu/reddit-client](https://github.com/bineetNaidu/reddit-client)
+3. 🎉 Merged PR [#2](https://github.com/bineetNaidu/custom-hooks/pull/2) in [bineetNaidu/custom-hooks](https://github.com/bineetNaidu/custom-hooks)
+4. 🎉 Merged PR [#1](https://github.com/bineetNaidu/custom-hooks/pull/1) in [bineetNaidu/custom-hooks](https://github.com/bineetNaidu/custom-hooks)
+5. 🎉 Merged PR [#3](https://github.com/bineetNaidu/custom-hooks/pull/3) in [bineetNaidu/custom-hooks](https://github.com/bineetNaidu/custom-hooks)
 <!--END_SECTION:activity-->
 
 
