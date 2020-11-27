@@ -2,8 +2,8 @@
 
 ## I'm a passionate Developer
 
--   🔭 I’m currently chilling out 😄!
--   🌱 I’m currently learning [GoLang](http://golang.org/).
+-   🔭 I’m currently working a microservice app named [ticketify](https://github.com/bineetNaidu/ticketify)!
+-   🌱 I’m currently learning Microservices with Nodejs and React and other cool kidzs stuffs 😎.
 -   🥅 2020 Goals: Learn as much as possible
     -   🤔 2021 Goal: contribute more to Open Source project
 -   ⚡ Fun fact: I love to watch and play Football
