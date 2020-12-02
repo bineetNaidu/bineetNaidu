@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/bineetNaidu/my-api/pull/2) in [bineetNaidu/my-api](https://github.com/bineetNaidu/my-api)
-2. 💪 Opened PR [#2](https://github.com/bineetNaidu/my-api/pull/2) in [bineetNaidu/my-api](https://github.com/bineetNaidu/my-api)
-3. 🎉 Merged PR [#3](https://github.com/bineetNaidu/microservices-blog-app/pull/3) in [bineetNaidu/microservices-blog-app](https://github.com/bineetNaidu/microservices-blog-app)
-4. 💪 Opened PR [#3](https://github.com/bineetNaidu/microservices-blog-app/pull/3) in [bineetNaidu/microservices-blog-app](https://github.com/bineetNaidu/microservices-blog-app)
-5. 🎉 Merged PR [#2](https://github.com/bineetNaidu/microservices-blog-app/pull/2) in [bineetNaidu/microservices-blog-app](https://github.com/bineetNaidu/microservices-blog-app)
+1. 🗣 Commented on [#6](https://github.com/bradtraversy/50projects50days/issues/6) in [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
+2. 🎉 Merged PR [#2](https://github.com/bineetNaidu/my-api/pull/2) in [bineetNaidu/my-api](https://github.com/bineetNaidu/my-api)
+3. 💪 Opened PR [#2](https://github.com/bineetNaidu/my-api/pull/2) in [bineetNaidu/my-api](https://github.com/bineetNaidu/my-api)
+4. 🎉 Merged PR [#3](https://github.com/bineetNaidu/microservices-blog-app/pull/3) in [bineetNaidu/microservices-blog-app](https://github.com/bineetNaidu/microservices-blog-app)
+5. 💪 Opened PR [#3](https://github.com/bineetNaidu/microservices-blog-app/pull/3) in [bineetNaidu/microservices-blog-app](https://github.com/bineetNaidu/microservices-blog-app)
 <!--END_SECTION:activity-->
 
 
