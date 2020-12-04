@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/jcbbb/thullo/issues/1) in [jcbbb/thullo](https://github.com/jcbbb/thullo)
-2. ❗️ Opened issue [#3](https://github.com/jcbbb/chat-app/issues/3) in [jcbbb/chat-app](https://github.com/jcbbb/chat-app)
-3. 🎉 Merged PR [#3](https://github.com/bineetNaidu/my-api-server/pull/3) in [bineetNaidu/my-api-server](https://github.com/bineetNaidu/my-api-server)
-4. 💪 Opened PR [#3](https://github.com/bineetNaidu/my-api-server/pull/3) in [bineetNaidu/my-api-server](https://github.com/bineetNaidu/my-api-server)
-5. 🗣 Commented on [#6](https://github.com/bradtraversy/50projects50days/issues/6) in [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
+1. 🗣 Commented on [#1](https://github.com/jcbbb/thullo/issues/1) in [jcbbb/thullo](https://github.com/jcbbb/thullo)
+2. ❗️ Opened issue [#1](https://github.com/jcbbb/thullo/issues/1) in [jcbbb/thullo](https://github.com/jcbbb/thullo)
+3. ❗️ Opened issue [#3](https://github.com/jcbbb/chat-app/issues/3) in [jcbbb/chat-app](https://github.com/jcbbb/chat-app)
+4. 🎉 Merged PR [#3](https://github.com/bineetNaidu/my-api-server/pull/3) in [bineetNaidu/my-api-server](https://github.com/bineetNaidu/my-api-server)
+5. 💪 Opened PR [#3](https://github.com/bineetNaidu/my-api-server/pull/3) in [bineetNaidu/my-api-server](https://github.com/bineetNaidu/my-api-server)
 <!--END_SECTION:activity-->
 
 
