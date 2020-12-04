@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/bineetNaidu/my-api-server/pull/3) in [bineetNaidu/my-api-server](https://github.com/bineetNaidu/my-api-server)
-2. 💪 Opened PR [#3](https://github.com/bineetNaidu/my-api-server/pull/3) in [bineetNaidu/my-api-server](https://github.com/bineetNaidu/my-api-server)
-3. 🗣 Commented on [#6](https://github.com/bradtraversy/50projects50days/issues/6) in [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
-4. 🎉 Merged PR [#2](https://github.com/bineetNaidu/my-api/pull/2) in [bineetNaidu/my-api](https://github.com/bineetNaidu/my-api)
-5. 💪 Opened PR [#2](https://github.com/bineetNaidu/my-api/pull/2) in [bineetNaidu/my-api](https://github.com/bineetNaidu/my-api)
+1. ❗️ Opened issue [#3](https://github.com/jcbbb/chat-app/issues/3) in [jcbbb/chat-app](https://github.com/jcbbb/chat-app)
+2. 🎉 Merged PR [#3](https://github.com/bineetNaidu/my-api-server/pull/3) in [bineetNaidu/my-api-server](https://github.com/bineetNaidu/my-api-server)
+3. 💪 Opened PR [#3](https://github.com/bineetNaidu/my-api-server/pull/3) in [bineetNaidu/my-api-server](https://github.com/bineetNaidu/my-api-server)
+4. 🗣 Commented on [#6](https://github.com/bradtraversy/50projects50days/issues/6) in [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
+5. 🎉 Merged PR [#2](https://github.com/bineetNaidu/my-api/pull/2) in [bineetNaidu/my-api](https://github.com/bineetNaidu/my-api)
 <!--END_SECTION:activity-->
 
 
