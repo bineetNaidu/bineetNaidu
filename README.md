@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/jcbbb/thullo/issues/1) in [jcbbb/thullo](https://github.com/jcbbb/thullo)
-2. ❗️ Opened issue [#1](https://github.com/jcbbb/thullo/issues/1) in [jcbbb/thullo](https://github.com/jcbbb/thullo)
-3. ❗️ Opened issue [#3](https://github.com/jcbbb/chat-app/issues/3) in [jcbbb/chat-app](https://github.com/jcbbb/chat-app)
-4. 🎉 Merged PR [#3](https://github.com/bineetNaidu/my-api-server/pull/3) in [bineetNaidu/my-api-server](https://github.com/bineetNaidu/my-api-server)
-5. 💪 Opened PR [#3](https://github.com/bineetNaidu/my-api-server/pull/3) in [bineetNaidu/my-api-server](https://github.com/bineetNaidu/my-api-server)
+1. ❗️ Opened issue [#20391](https://github.com/facebook/react/issues/20391) in [facebook/react](https://github.com/facebook/react)
+2. 🗣 Commented on [#1](https://github.com/jcbbb/thullo/issues/1) in [jcbbb/thullo](https://github.com/jcbbb/thullo)
+3. ❗️ Opened issue [#1](https://github.com/jcbbb/thullo/issues/1) in [jcbbb/thullo](https://github.com/jcbbb/thullo)
+4. ❗️ Opened issue [#3](https://github.com/jcbbb/chat-app/issues/3) in [jcbbb/chat-app](https://github.com/jcbbb/chat-app)
+5. 🎉 Merged PR [#3](https://github.com/bineetNaidu/my-api-server/pull/3) in [bineetNaidu/my-api-server](https://github.com/bineetNaidu/my-api-server)
 <!--END_SECTION:activity-->
 
 
