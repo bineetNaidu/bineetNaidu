@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20391](https://github.com/facebook/react/issues/20391) in [facebook/react](https://github.com/facebook/react)
-2. ❗️ Opened issue [#20391](https://github.com/facebook/react/issues/20391) in [facebook/react](https://github.com/facebook/react)
-3. 🗣 Commented on [#1](https://github.com/jcbbb/thullo/issues/1) in [jcbbb/thullo](https://github.com/jcbbb/thullo)
-4. ❗️ Opened issue [#1](https://github.com/jcbbb/thullo/issues/1) in [jcbbb/thullo](https://github.com/jcbbb/thullo)
-5. ❗️ Opened issue [#3](https://github.com/jcbbb/chat-app/issues/3) in [jcbbb/chat-app](https://github.com/jcbbb/chat-app)
+1. 🎉 Merged PR [#4](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/4) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+2. 💪 Opened PR [#4](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/4) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+3. 🗣 Commented on [#20391](https://github.com/facebook/react/issues/20391) in [facebook/react](https://github.com/facebook/react)
+4. ❗️ Opened issue [#20391](https://github.com/facebook/react/issues/20391) in [facebook/react](https://github.com/facebook/react)
+5. 🗣 Commented on [#1](https://github.com/jcbbb/thullo/issues/1) in [jcbbb/thullo](https://github.com/jcbbb/thullo)
 <!--END_SECTION:activity-->
 
 
