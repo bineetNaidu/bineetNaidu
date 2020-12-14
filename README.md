@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Bineet Naidu](https:///bineetnaidu.web.app)
+### Hi there 👋, I'm [Bineet Naidu](https:///bineetnaidu-io.web.app)
 
 ## I'm a passionate Developer
 
