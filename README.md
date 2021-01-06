@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/bineetNaidu/ticketify/pull/2) in [bineetNaidu/ticketify](https://github.com/bineetNaidu/ticketify)
-2. 🎉 Merged PR [#7](https://github.com/bineetNaidu/best-printers/pull/7) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
-3. 🎉 Merged PR [#6](https://github.com/bineetNaidu/best-printers/pull/6) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
-4. 🎉 Merged PR [#1](https://github.com/bineetNaidu/ticketify/pull/1) in [bineetNaidu/ticketify](https://github.com/bineetNaidu/ticketify)
-5. 💪 Opened PR [#1](https://github.com/bineetNaidu/ticketify/pull/1) in [bineetNaidu/ticketify](https://github.com/bineetNaidu/ticketify)
+1. 🎉 Merged PR [#2](https://github.com/bineetNaidu/ticketify/pull/2) in [bineetNaidu/ticketify](https://github.com/bineetNaidu/ticketify)
+2. 💪 Opened PR [#2](https://github.com/bineetNaidu/ticketify/pull/2) in [bineetNaidu/ticketify](https://github.com/bineetNaidu/ticketify)
+3. 🎉 Merged PR [#7](https://github.com/bineetNaidu/best-printers/pull/7) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+4. 🎉 Merged PR [#6](https://github.com/bineetNaidu/best-printers/pull/6) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+5. 🎉 Merged PR [#1](https://github.com/bineetNaidu/ticketify/pull/1) in [bineetNaidu/ticketify](https://github.com/bineetNaidu/ticketify)
 <!--END_SECTION:activity-->
 
 
