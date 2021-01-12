@@ -2,10 +2,10 @@
 
 ## I'm a passionate Developer
 
--   🔭 I’m currently working a microservice app named [ticketify](https://github.com/bineetNaidu/ticketify)!
--   🌱 I’m currently learning Microservices with Nodejs and React and other cool kidzs stuffs 😎.
--   🥅 2020 Goals: Learn as much as possible
-    -   🤔 2021 Goal: contribute more to Open Source project
+-   🔭 I’m currently working a real time discord clone app named [Chatify](https://github.com/bineetNaidu/chatify)!
+-   🌱 I’m currently learning WebRTC or WebSockets w/ [SocketIO](https://socket.io/) 😎.
+-   🥅 2021 Goal: contribute more to Open Source project
+    -   🤔 2022 Goal: The History book will be re-written...
 -   ⚡ Fun fact: I love to watch and play Football
 
 ### Connect with me:
