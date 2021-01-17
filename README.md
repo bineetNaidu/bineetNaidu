@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/bineetNaidu/chatify/pull/1) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
-2. 💪 Opened PR [#1](https://github.com/bineetNaidu/chatify/pull/1) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
-3. 🎉 Merged PR [#2](https://github.com/bineetNaidu/ticketify/pull/2) in [bineetNaidu/ticketify](https://github.com/bineetNaidu/ticketify)
-4. 💪 Opened PR [#2](https://github.com/bineetNaidu/ticketify/pull/2) in [bineetNaidu/ticketify](https://github.com/bineetNaidu/ticketify)
-5. 🎉 Merged PR [#7](https://github.com/bineetNaidu/best-printers/pull/7) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+1. 🎉 Merged PR [#2](https://github.com/bineetNaidu/chatify/pull/2) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
+2. 💪 Opened PR [#2](https://github.com/bineetNaidu/chatify/pull/2) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
+3. 🎉 Merged PR [#1](https://github.com/bineetNaidu/chatify/pull/1) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
+4. 💪 Opened PR [#1](https://github.com/bineetNaidu/chatify/pull/1) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
+5. 🎉 Merged PR [#2](https://github.com/bineetNaidu/ticketify/pull/2) in [bineetNaidu/ticketify](https://github.com/bineetNaidu/ticketify)
 <!--END_SECTION:activity-->
 
 
