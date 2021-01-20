@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/bineetNaidu/project-tracker-app/pull/2) in [bineetNaidu/project-tracker-app](https://github.com/bineetNaidu/project-tracker-app)
-2. 💪 Opened PR [#2](https://github.com/bineetNaidu/project-tracker-app/pull/2) in [bineetNaidu/project-tracker-app](https://github.com/bineetNaidu/project-tracker-app)
-3. ❌ Closed PR [#1](https://github.com/bineetNaidu/project-tracker-app/pull/1) in [bineetNaidu/project-tracker-app](https://github.com/bineetNaidu/project-tracker-app)
-4. 💪 Opened PR [#1](https://github.com/bineetNaidu/project-tracker-app/pull/1) in [bineetNaidu/project-tracker-app](https://github.com/bineetNaidu/project-tracker-app)
-5. 🎉 Merged PR [#2](https://github.com/bineetNaidu/chatify/pull/2) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
+1. 🎉 Merged PR [#1](https://github.com/bineetNaidu/code-katas/pull/1) in [bineetNaidu/code-katas](https://github.com/bineetNaidu/code-katas)
+2. 💪 Opened PR [#1](https://github.com/bineetNaidu/code-katas/pull/1) in [bineetNaidu/code-katas](https://github.com/bineetNaidu/code-katas)
+3. 🎉 Merged PR [#2](https://github.com/bineetNaidu/project-tracker-app/pull/2) in [bineetNaidu/project-tracker-app](https://github.com/bineetNaidu/project-tracker-app)
+4. 💪 Opened PR [#2](https://github.com/bineetNaidu/project-tracker-app/pull/2) in [bineetNaidu/project-tracker-app](https://github.com/bineetNaidu/project-tracker-app)
+5. ❌ Closed PR [#1](https://github.com/bineetNaidu/project-tracker-app/pull/1) in [bineetNaidu/project-tracker-app](https://github.com/bineetNaidu/project-tracker-app)
 <!--END_SECTION:activity-->
 
 
