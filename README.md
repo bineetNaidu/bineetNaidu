@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/bineetNaidu/karban/pull/2) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
-2. 💪 Opened PR [#2](https://github.com/bineetNaidu/karban/pull/2) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
-3. 🎉 Merged PR [#8](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/8) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
-4. 💪 Opened PR [#8](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/8) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
-5. 🎉 Merged PR [#1](https://github.com/bineetNaidu/ChatCord/pull/1) in [bineetNaidu/ChatCord](https://github.com/bineetNaidu/ChatCord)
+1. ❗️ Opened issue [#3](https://github.com/bineetNaidu/karban/issues/3) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+2. 🎉 Merged PR [#2](https://github.com/bineetNaidu/karban/pull/2) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+3. 💪 Opened PR [#2](https://github.com/bineetNaidu/karban/pull/2) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+4. 🎉 Merged PR [#8](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/8) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+5. 💪 Opened PR [#8](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/8) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
 <!--END_SECTION:activity-->
 
 
