@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/10) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
-2. 💪 Opened PR [#10](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/10) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
-3. 🗣 Commented on [#10144](https://github.com/facebook/create-react-app/issues/10144) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-4. 🎉 Merged PR [#1](https://github.com/bineetNaidu/my-projects/pull/1) in [bineetNaidu/my-projects](https://github.com/bineetNaidu/my-projects)
-5. 💪 Opened PR [#1](https://github.com/bineetNaidu/my-projects/pull/1) in [bineetNaidu/my-projects](https://github.com/bineetNaidu/my-projects)
+1. 🎉 Merged PR [#1](https://github.com/bineetNaidu/shopify/pull/1) in [bineetNaidu/shopify](https://github.com/bineetNaidu/shopify)
+2. 💪 Opened PR [#1](https://github.com/bineetNaidu/shopify/pull/1) in [bineetNaidu/shopify](https://github.com/bineetNaidu/shopify)
+3. 🎉 Merged PR [#10](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/10) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+4. 💪 Opened PR [#10](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/10) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+5. 🗣 Commented on [#10144](https://github.com/facebook/create-react-app/issues/10144) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
 <!--END_SECTION:activity-->
 
 
