@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#3](https://github.com/bineetNaidu/karban/issues/3) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
-2. 🗣 Commented on [#3](https://github.com/bineetNaidu/karban/issues/3) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
-3. 💪 Opened PR [#4](https://github.com/bineetNaidu/karban/pull/4) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
-4. ❗️ Closed issue [#3](https://github.com/bineetNaidu/karban/issues/3) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
-5. 🎉 Merged PR [#1](https://github.com/bineetNaidu/shopify/pull/1) in [bineetNaidu/shopify](https://github.com/bineetNaidu/shopify)
+1. 🎉 Merged PR [#4](https://github.com/bineetNaidu/karban/pull/4) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+2. ❗️ Reopened issue [#3](https://github.com/bineetNaidu/karban/issues/3) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+3. 🗣 Commented on [#3](https://github.com/bineetNaidu/karban/issues/3) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+4. 💪 Opened PR [#4](https://github.com/bineetNaidu/karban/pull/4) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+5. ❗️ Closed issue [#3](https://github.com/bineetNaidu/karban/issues/3) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
 <!--END_SECTION:activity-->
 
 
