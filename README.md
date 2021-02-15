@@ -1,9 +1,9 @@
-### Hi there 👋, I'm [Bineet Naidu](https:///bineetnaidu-io.web.app)
+### Hi there 👋, I'm [Bineet Naidu](https://bineetnaidu.github.io)
 
 ## I'm a passionate Developer
 
--   🔭 I’m currently working a real time discord clone app named [Chatify](https://github.com/bineetNaidu/chatify)!
--   🌱 I’m currently learning WebRTC or WebSockets w/ [SocketIO](https://socket.io/) 😎.
+-   🔭 I’m currently not working on anything :) ( as in school right now )
+-   🌱 I’m currently learning WebRTC or WebSockets w/ [SocketIO](https://socket.io/) And k8s 😎.
 -   🥅 2021 Goal: contribute more to Open Source project
     -   🤔 2022 Goal: The History book will be re-written...
 -   ⚡ Fun fact: I love to watch and play Football
