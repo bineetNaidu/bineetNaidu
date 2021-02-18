@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/bineetNaidu/blogstones/pull/3) in [bineetNaidu/blogstones](https://github.com/bineetNaidu/blogstones)
-2. ❗️ Opened issue [#2](https://github.com/bineetNaidu/blogstones/issues/2) in [bineetNaidu/blogstones](https://github.com/bineetNaidu/blogstones)
-3. 🎉 Merged PR [#1](https://github.com/bineetNaidu/blogstones/pull/1) in [bineetNaidu/blogstones](https://github.com/bineetNaidu/blogstones)
-4. 💪 Opened PR [#1](https://github.com/bineetNaidu/blogstones/pull/1) in [bineetNaidu/blogstones](https://github.com/bineetNaidu/blogstones)
-5. ❗️ Opened issue [#11](https://github.com/bineetNaidu/api.bineetnaidu.io/issues/11) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+1. ❗️ Closed issue [#11](https://github.com/bineetNaidu/api.bineetnaidu.io/issues/11) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+2. 🗣 Commented on [#11](https://github.com/bineetNaidu/api.bineetnaidu.io/issues/11) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+3. 🎉 Merged PR [#12](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/12) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+4. 💪 Opened PR [#12](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/12) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+5. 💪 Opened PR [#3](https://github.com/bineetNaidu/blogstones/pull/3) in [bineetNaidu/blogstones](https://github.com/bineetNaidu/blogstones)
 <!--END_SECTION:activity-->
 
 
