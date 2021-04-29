@@ -2,8 +2,8 @@
 
 ## I'm a passionate Developer
 
--   🔭 I’m currently not working on anything :) ( as in school right now )
--   🌱 I’m currently learning WebRTC or WebSockets w/ [SocketIO](https://socket.io/) And k8s 😎.
+-   🔭 I’m currently on an [Inventory App](https://github.com/bineetNaidu/InventoryApp/)
+-   🌱 I’m currently learning  WebSockets w/ [SocketIO](https://socket.io/) And Postgresql 😎.
 -   🥅 2021 Goal: contribute more to Open Source project
     -   🤔 2022 Goal: The History book will be re-written...
 -   ⚡ Fun fact: I love to watch and play Football
