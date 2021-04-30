@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/bineetNaidu/best-printers/pull/8) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
-2. 🎉 Merged PR [#2](https://github.com/bineetNaidu/InventoryApp/pull/2) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-3. 💪 Opened PR [#2](https://github.com/bineetNaidu/InventoryApp/pull/2) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-4. 🎉 Merged PR [#1](https://github.com/bineetNaidu/InventoryApp/pull/1) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-5. 💪 Opened PR [#1](https://github.com/bineetNaidu/InventoryApp/pull/1) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
+1. ❌ Closed PR [#10](https://github.com/bineetNaidu/best-printers/pull/10) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+2. 🎉 Merged PR [#9](https://github.com/bineetNaidu/best-printers/pull/9) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+3. 🎉 Merged PR [#8](https://github.com/bineetNaidu/best-printers/pull/8) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+4. 🎉 Merged PR [#2](https://github.com/bineetNaidu/InventoryApp/pull/2) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
+5. 💪 Opened PR [#2](https://github.com/bineetNaidu/InventoryApp/pull/2) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
 <!--END_SECTION:activity-->
 
 
