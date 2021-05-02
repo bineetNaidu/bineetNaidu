@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/bineetNaidu/InventoryApp/issues/5) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-2. 🎉 Merged PR [#5](https://github.com/bineetNaidu/InventoryApp/pull/5) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-3. ❗️ Closed issue [#4](https://github.com/bineetNaidu/InventoryApp/issues/4) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-4. 💪 Opened PR [#5](https://github.com/bineetNaidu/InventoryApp/pull/5) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-5. ❗️ Opened issue [#4](https://github.com/bineetNaidu/InventoryApp/issues/4) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
+1. ❗️ Closed issue [#2](https://github.com/OnlyBens/ui/issues/2) in [OnlyBens/ui](https://github.com/OnlyBens/ui)
+2. ❗️ Closed issue [#3](https://github.com/jcbbb/chat-app/issues/3) in [jcbbb/chat-app](https://github.com/jcbbb/chat-app)
+3. ❗️ Closed issue [#1](https://github.com/john-smilga/react-projects-9-color-generator/issues/1) in [john-smilga/react-projects-9-color-generator](https://github.com/john-smilga/react-projects-9-color-generator)
+4. ❗️ Closed issue [#1](https://github.com/bineetNaidu/zoomClone/issues/1) in [bineetNaidu/zoomClone](https://github.com/bineetNaidu/zoomClone)
+5. 🗣 Commented on [#1](https://github.com/bineetNaidu/zoomClone/issues/1) in [bineetNaidu/zoomClone](https://github.com/bineetNaidu/zoomClone)
 <!--END_SECTION:activity-->
 
 
