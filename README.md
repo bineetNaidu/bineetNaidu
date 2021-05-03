@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/bineetNaidu/vox.bineetnaidu.io/pull/2) in [bineetNaidu/vox.bineetnaidu.io](https://github.com/bineetNaidu/vox.bineetnaidu.io)
-2. 💪 Opened PR [#2](https://github.com/bineetNaidu/vox.bineetnaidu.io/pull/2) in [bineetNaidu/vox.bineetnaidu.io](https://github.com/bineetNaidu/vox.bineetnaidu.io)
-3. 🎉 Merged PR [#1](https://github.com/bineetNaidu/vox.bineetnaidu.io/pull/1) in [bineetNaidu/vox.bineetnaidu.io](https://github.com/bineetNaidu/vox.bineetnaidu.io)
-4. 💪 Opened PR [#1](https://github.com/bineetNaidu/vox.bineetnaidu.io/pull/1) in [bineetNaidu/vox.bineetnaidu.io](https://github.com/bineetNaidu/vox.bineetnaidu.io)
-5. 🗣 Commented on [#93](https://github.com/oasis-sh/oasis/issues/93) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
+1. ❗️ Opened issue [#3](https://github.com/bineetNaidu/vox.bineetnaidu.io/issues/3) in [bineetNaidu/vox.bineetnaidu.io](https://github.com/bineetNaidu/vox.bineetnaidu.io)
+2. 🎉 Merged PR [#2](https://github.com/bineetNaidu/vox.bineetnaidu.io/pull/2) in [bineetNaidu/vox.bineetnaidu.io](https://github.com/bineetNaidu/vox.bineetnaidu.io)
+3. 💪 Opened PR [#2](https://github.com/bineetNaidu/vox.bineetnaidu.io/pull/2) in [bineetNaidu/vox.bineetnaidu.io](https://github.com/bineetNaidu/vox.bineetnaidu.io)
+4. 🎉 Merged PR [#1](https://github.com/bineetNaidu/vox.bineetnaidu.io/pull/1) in [bineetNaidu/vox.bineetnaidu.io](https://github.com/bineetNaidu/vox.bineetnaidu.io)
+5. 💪 Opened PR [#1](https://github.com/bineetNaidu/vox.bineetnaidu.io/pull/1) in [bineetNaidu/vox.bineetnaidu.io](https://github.com/bineetNaidu/vox.bineetnaidu.io)
 <!--END_SECTION:activity-->
 
 
