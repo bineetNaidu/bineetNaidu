@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/oasis-sh/oasis/issues/93) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
-2. ❗️ Closed issue [#2](https://github.com/OnlyBens/ui/issues/2) in [OnlyBens/ui](https://github.com/OnlyBens/ui)
-3. ❗️ Closed issue [#3](https://github.com/jcbbb/chat-app/issues/3) in [jcbbb/chat-app](https://github.com/jcbbb/chat-app)
-4. ❗️ Closed issue [#1](https://github.com/john-smilga/react-projects-9-color-generator/issues/1) in [john-smilga/react-projects-9-color-generator](https://github.com/john-smilga/react-projects-9-color-generator)
-5. ❗️ Closed issue [#1](https://github.com/bineetNaidu/zoomClone/issues/1) in [bineetNaidu/zoomClone](https://github.com/bineetNaidu/zoomClone)
+1. 🎉 Merged PR [#2](https://github.com/bineetNaidu/vox.bineetnaidu.io/pull/2) in [bineetNaidu/vox.bineetnaidu.io](https://github.com/bineetNaidu/vox.bineetnaidu.io)
+2. 💪 Opened PR [#2](https://github.com/bineetNaidu/vox.bineetnaidu.io/pull/2) in [bineetNaidu/vox.bineetnaidu.io](https://github.com/bineetNaidu/vox.bineetnaidu.io)
+3. 🎉 Merged PR [#1](https://github.com/bineetNaidu/vox.bineetnaidu.io/pull/1) in [bineetNaidu/vox.bineetnaidu.io](https://github.com/bineetNaidu/vox.bineetnaidu.io)
+4. 💪 Opened PR [#1](https://github.com/bineetNaidu/vox.bineetnaidu.io/pull/1) in [bineetNaidu/vox.bineetnaidu.io](https://github.com/bineetNaidu/vox.bineetnaidu.io)
+5. 🗣 Commented on [#93](https://github.com/oasis-sh/oasis/issues/93) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
 <!--END_SECTION:activity-->
 
 
