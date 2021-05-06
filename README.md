@@ -41,11 +41,11 @@ ____
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4227](https://github.com/teambit/bit/issues/4227) in [teambit/bit](https://github.com/teambit/bit)
-2. 🗣 Commented on [#4227](https://github.com/teambit/bit/issues/4227) in [teambit/bit](https://github.com/teambit/bit)
-3. 🗣 Commented on [#4227](https://github.com/teambit/bit/issues/4227) in [teambit/bit](https://github.com/teambit/bit)
-4. 💪 Opened PR [#4228](https://github.com/teambit/bit/pull/4228) in [teambit/bit](https://github.com/teambit/bit)
-5. ❗️ Opened issue [#4227](https://github.com/teambit/bit/issues/4227) in [teambit/bit](https://github.com/teambit/bit)
+1. 🎉 Merged PR [#13](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/13) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+2. 💪 Opened PR [#13](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/13) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+3. ❗️ Closed issue [#4227](https://github.com/teambit/bit/issues/4227) in [teambit/bit](https://github.com/teambit/bit)
+4. 🗣 Commented on [#4227](https://github.com/teambit/bit/issues/4227) in [teambit/bit](https://github.com/teambit/bit)
+5. 🗣 Commented on [#4227](https://github.com/teambit/bit/issues/4227) in [teambit/bit](https://github.com/teambit/bit)
 <!--END_SECTION:activity-->
 
 
