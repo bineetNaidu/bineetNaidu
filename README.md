@@ -37,6 +37,12 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#180](https://github.com/oasis-sh/oasis/issues/180) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
+2. ❗️ Opened issue [#180](https://github.com/oasis-sh/oasis/issues/180) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
+3. 🎉 Merged PR [#5](https://github.com/bineetNaidu/YelpCamp/pull/5) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
+4. 🎉 Merged PR [#4](https://github.com/bineetNaidu/YelpCamp/pull/4) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
+5. 🎉 Merged PR [#13](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/13) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+<!--END_SECTION:activity-->
 
 
 
