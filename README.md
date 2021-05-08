@@ -37,12 +37,7 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/bineetNaidu/YelpCamp/pull/5) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
-2. 🎉 Merged PR [#4](https://github.com/bineetNaidu/YelpCamp/pull/4) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
-3. 🎉 Merged PR [#13](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/13) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
-4. 💪 Opened PR [#13](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/13) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
-5. ❗️ Closed issue [#4227](https://github.com/teambit/bit/issues/4227) in [teambit/bit](https://github.com/teambit/bit)
-<!--END_SECTION:activity-->
+
 
 
 
