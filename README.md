@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/bineetNaidu/YelpCamp/pull/6) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
-2. 🎉 Merged PR [#2](https://github.com/bineetNaidu/edificationOnline/pull/2) in [bineetNaidu/edificationOnline](https://github.com/bineetNaidu/edificationOnline)
-3. 🎉 Merged PR [#11](https://github.com/bineetNaidu/best-printers/pull/11) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
-4. 🎉 Merged PR [#1](https://github.com/bineetNaidu/edificationOnline/pull/1) in [bineetNaidu/edificationOnline](https://github.com/bineetNaidu/edificationOnline)
-5. 🎉 Merged PR [#3](https://github.com/bineetNaidu/chatify/pull/3) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
+1. 🗣 Commented on [#180](https://github.com/oasis-sh/oasis/issues/180) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
+2. 🎉 Merged PR [#6](https://github.com/bineetNaidu/YelpCamp/pull/6) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
+3. 🎉 Merged PR [#2](https://github.com/bineetNaidu/edificationOnline/pull/2) in [bineetNaidu/edificationOnline](https://github.com/bineetNaidu/edificationOnline)
+4. 🎉 Merged PR [#11](https://github.com/bineetNaidu/best-printers/pull/11) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+5. 🎉 Merged PR [#1](https://github.com/bineetNaidu/edificationOnline/pull/1) in [bineetNaidu/edificationOnline](https://github.com/bineetNaidu/edificationOnline)
 <!--END_SECTION:activity-->
 
 
