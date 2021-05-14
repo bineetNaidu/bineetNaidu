@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#180](https://github.com/oasis-sh/oasis/issues/180) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
-2. 🎉 Merged PR [#6](https://github.com/bineetNaidu/YelpCamp/pull/6) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
-3. 🎉 Merged PR [#2](https://github.com/bineetNaidu/edificationOnline/pull/2) in [bineetNaidu/edificationOnline](https://github.com/bineetNaidu/edificationOnline)
-4. 🎉 Merged PR [#11](https://github.com/bineetNaidu/best-printers/pull/11) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
-5. 🎉 Merged PR [#1](https://github.com/bineetNaidu/edificationOnline/pull/1) in [bineetNaidu/edificationOnline](https://github.com/bineetNaidu/edificationOnline)
+1. 🎉 Merged PR [#6](https://github.com/bineetNaidu/karban/pull/6) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+2. 💪 Opened PR [#6](https://github.com/bineetNaidu/karban/pull/6) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+3. ❗️ Opened issue [#5](https://github.com/bineetNaidu/karban/issues/5) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+4. 🗣 Commented on [#180](https://github.com/oasis-sh/oasis/issues/180) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
+5. 🎉 Merged PR [#6](https://github.com/bineetNaidu/YelpCamp/pull/6) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
 <!--END_SECTION:activity-->
 
 
