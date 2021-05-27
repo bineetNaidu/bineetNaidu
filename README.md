@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/bineetNaidu/InventoryApp/issues/6) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-2. 🎉 Merged PR [#2](https://github.com/bineetNaidu/lireddit/pull/2) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
-3. 💪 Opened PR [#2](https://github.com/bineetNaidu/lireddit/pull/2) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
-4. ❗️ Opened issue [#1](https://github.com/bineetNaidu/lireddit/issues/1) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
-5. 🎉 Merged PR [#14](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/14) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+1. 🗣 Commented on [#72](https://github.com/EddieHubCommunity/api/issues/72) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. ❗️ Opened issue [#6](https://github.com/bineetNaidu/InventoryApp/issues/6) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
+3. 🎉 Merged PR [#2](https://github.com/bineetNaidu/lireddit/pull/2) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
+4. 💪 Opened PR [#2](https://github.com/bineetNaidu/lireddit/pull/2) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
+5. ❗️ Opened issue [#1](https://github.com/bineetNaidu/lireddit/issues/1) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
 <!--END_SECTION:activity-->
 
 
