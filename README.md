@@ -38,10 +38,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#333](https://github.com/oasis-sh/oasis/issues/333) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
-2. 🎉 Merged PR [#2](https://github.com/bineetNaidu/ChatCord/pull/2) in [bineetNaidu/ChatCord](https://github.com/bineetNaidu/ChatCord)
-3. ❗️ Closed issue [#6](https://github.com/bineetNaidu/InventoryApp/issues/6) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-4. 🗣 Commented on [#6](https://github.com/bineetNaidu/InventoryApp/issues/6) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-5. 🗣 Commented on [#72](https://github.com/EddieHubCommunity/api/issues/72) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#333](https://github.com/oasis-sh/oasis/issues/333) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
+3. 🎉 Merged PR [#2](https://github.com/bineetNaidu/ChatCord/pull/2) in [bineetNaidu/ChatCord](https://github.com/bineetNaidu/ChatCord)
+4. ❗️ Closed issue [#6](https://github.com/bineetNaidu/InventoryApp/issues/6) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
+5. 🗣 Commented on [#6](https://github.com/bineetNaidu/InventoryApp/issues/6) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
 <!--END_SECTION:activity-->
 
 
