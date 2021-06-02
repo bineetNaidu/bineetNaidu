@@ -39,9 +39,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#333](https://github.com/oasis-sh/oasis/issues/333) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
 2. 🗣 Commented on [#333](https://github.com/oasis-sh/oasis/issues/333) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
-3. 🎉 Merged PR [#2](https://github.com/bineetNaidu/ChatCord/pull/2) in [bineetNaidu/ChatCord](https://github.com/bineetNaidu/ChatCord)
-4. ❗️ Closed issue [#6](https://github.com/bineetNaidu/InventoryApp/issues/6) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-5. 🗣 Commented on [#6](https://github.com/bineetNaidu/InventoryApp/issues/6) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
+3. 🗣 Commented on [#333](https://github.com/oasis-sh/oasis/issues/333) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
+4. 🎉 Merged PR [#2](https://github.com/bineetNaidu/ChatCord/pull/2) in [bineetNaidu/ChatCord](https://github.com/bineetNaidu/ChatCord)
+5. ❗️ Closed issue [#6](https://github.com/bineetNaidu/InventoryApp/issues/6) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
 <!--END_SECTION:activity-->
 
 
