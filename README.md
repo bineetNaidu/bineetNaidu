@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/bineetNaidu/create-ts-express-api/pull/1) in [bineetNaidu/create-ts-express-api](https://github.com/bineetNaidu/create-ts-express-api)
-2. 💪 Opened PR [#1](https://github.com/bineetNaidu/create-ts-express-api/pull/1) in [bineetNaidu/create-ts-express-api](https://github.com/bineetNaidu/create-ts-express-api)
-3. 🎉 Merged PR [#3](https://github.com/bineetNaidu/lireddit/pull/3) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
-4. 💪 Opened PR [#3](https://github.com/bineetNaidu/lireddit/pull/3) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
-5. 🗣 Commented on [#333](https://github.com/oasis-sh/oasis/issues/333) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
+1. ❗️ Closed issue [#2](https://github.com/bineetNaidu/create-ts-api/issues/2) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+2. 🗣 Commented on [#2](https://github.com/bineetNaidu/create-ts-api/issues/2) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+3. ❗️ Opened issue [#2](https://github.com/bineetNaidu/create-ts-express-api/issues/2) in [bineetNaidu/create-ts-express-api](https://github.com/bineetNaidu/create-ts-express-api)
+4. 🎉 Merged PR [#1](https://github.com/bineetNaidu/create-ts-express-api/pull/1) in [bineetNaidu/create-ts-express-api](https://github.com/bineetNaidu/create-ts-express-api)
+5. 💪 Opened PR [#1](https://github.com/bineetNaidu/create-ts-express-api/pull/1) in [bineetNaidu/create-ts-express-api](https://github.com/bineetNaidu/create-ts-express-api)
 <!--END_SECTION:activity-->
 
 
