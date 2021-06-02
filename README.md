@@ -37,10 +37,10 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/bineetNaidu/lireddit/pull/3) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
-2. 💪 Opened PR [#3](https://github.com/bineetNaidu/lireddit/pull/3) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
-3. 🗣 Commented on [#333](https://github.com/oasis-sh/oasis/issues/333) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
-4. 🗣 Commented on [#333](https://github.com/oasis-sh/oasis/issues/333) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
+1. 🎉 Merged PR [#1](https://github.com/bineetNaidu/create-ts-express-api/pull/1) in [bineetNaidu/create-ts-express-api](https://github.com/bineetNaidu/create-ts-express-api)
+2. 💪 Opened PR [#1](https://github.com/bineetNaidu/create-ts-express-api/pull/1) in [bineetNaidu/create-ts-express-api](https://github.com/bineetNaidu/create-ts-express-api)
+3. 🎉 Merged PR [#3](https://github.com/bineetNaidu/lireddit/pull/3) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
+4. 💪 Opened PR [#3](https://github.com/bineetNaidu/lireddit/pull/3) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
 5. 🗣 Commented on [#333](https://github.com/oasis-sh/oasis/issues/333) in [oasis-sh/oasis](https://github.com/oasis-sh/oasis)
 <!--END_SECTION:activity-->
 
