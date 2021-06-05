@@ -2,7 +2,7 @@
 
 ## I'm a passionate Developer
 
--   🔭 I’m currently on an [Inventory App](https://github.com/bineetNaidu/InventoryApp/)
+-   🔭 My current [working ons](https://gist.github.com/bineetNaidu/9af4afdb704951f548d30d714b0c5879)
 -   🌱 I’m currently learning  WebSockets w/ [SocketIO](https://socket.io/) And Postgresql 😎.
 - 💬 Ask me about: Nodejs , PostgreSQL, Mongo, React or related to MERN / PERN stack
 - 📫 How to reach me: [<img alt="bineetNaidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/bineetNaidu) | [<img alt="bineetNaidu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/bineet_naidu/)
