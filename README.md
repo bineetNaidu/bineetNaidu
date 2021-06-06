@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/bineetNaidu/create-ts-api/pull/6) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-2. ❗️ Closed issue [#5](https://github.com/bineetNaidu/create-ts-api/issues/5) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-3. 💪 Opened PR [#6](https://github.com/bineetNaidu/create-ts-api/pull/6) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-4. 🗣 Commented on [#5](https://github.com/bineetNaidu/create-ts-api/issues/5) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-5. ❗️ Opened issue [#5](https://github.com/bineetNaidu/create-ts-api/issues/5) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+1. ❗️ Opened issue [#1](https://github.com/bineetNaidu/stories/issues/1) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
+2. 🎉 Merged PR [#6](https://github.com/bineetNaidu/create-ts-api/pull/6) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+3. ❗️ Closed issue [#5](https://github.com/bineetNaidu/create-ts-api/issues/5) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+4. 💪 Opened PR [#6](https://github.com/bineetNaidu/create-ts-api/pull/6) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+5. 🗣 Commented on [#5](https://github.com/bineetNaidu/create-ts-api/issues/5) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
 <!--END_SECTION:activity-->
 
 
