@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/bineetNaidu/stories/issues/3) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
-2. 🎉 Merged PR [#2](https://github.com/bineetNaidu/stories/pull/2) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
-3. 💪 Opened PR [#2](https://github.com/bineetNaidu/stories/pull/2) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
-4. ❗️ Opened issue [#1](https://github.com/bineetNaidu/stories/issues/1) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
-5. 🎉 Merged PR [#6](https://github.com/bineetNaidu/create-ts-api/pull/6) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+1. ❗️ Opened issue [#4](https://github.com/bineetNaidu/stories/issues/4) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
+2. ❗️ Opened issue [#3](https://github.com/bineetNaidu/stories/issues/3) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
+3. 🎉 Merged PR [#2](https://github.com/bineetNaidu/stories/pull/2) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
+4. 💪 Opened PR [#2](https://github.com/bineetNaidu/stories/pull/2) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
+5. ❗️ Opened issue [#1](https://github.com/bineetNaidu/stories/issues/1) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
 <!--END_SECTION:activity-->
 
 
