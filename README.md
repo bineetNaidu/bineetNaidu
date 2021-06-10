@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1186](https://github.com/wesbos/awesome-uses/issues/1186) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
-2. 💪 Opened PR [#1186](https://github.com/wesbos/awesome-uses/pull/1186) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
-3. 🎉 Merged PR [#8](https://github.com/bineetNaidu/YelpCamp/pull/8) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
-4. 🎉 Merged PR [#7](https://github.com/bineetNaidu/YelpCamp/pull/7) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
-5. 🎉 Merged PR [#8](https://github.com/bineetNaidu/stories/pull/8) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
+1. 🗣 Commented on [#5](https://github.com/bineetNaidu/stories/issues/5) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
+2. 🗣 Commented on [#1186](https://github.com/wesbos/awesome-uses/issues/1186) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+3. 💪 Opened PR [#1186](https://github.com/wesbos/awesome-uses/pull/1186) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+4. 🎉 Merged PR [#8](https://github.com/bineetNaidu/YelpCamp/pull/8) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
+5. 🎉 Merged PR [#7](https://github.com/bineetNaidu/YelpCamp/pull/7) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
 <!--END_SECTION:activity-->
 
 
