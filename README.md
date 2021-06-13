@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/bineetNaidu/chatify/pull/4) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
-2. 🎉 Merged PR [#5](https://github.com/bineetNaidu/chatify/pull/5) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
-3. 🎉 Merged PR [#6](https://github.com/bineetNaidu/chatify/pull/6) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
-4. 🎉 Merged PR [#4](https://github.com/bineetNaidu/surf-shop/pull/4) in [bineetNaidu/surf-shop](https://github.com/bineetNaidu/surf-shop)
-5. 🎉 Merged PR [#9](https://github.com/bineetNaidu/stories/pull/9) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
+1. ❗️ Closed issue [#1](https://github.com/bineetNaidu/stories/issues/1) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
+2. 🗣 Commented on [#1](https://github.com/bineetNaidu/stories/issues/1) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
+3. 🎉 Merged PR [#4](https://github.com/bineetNaidu/chatify/pull/4) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
+4. 🎉 Merged PR [#5](https://github.com/bineetNaidu/chatify/pull/5) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
+5. 🎉 Merged PR [#6](https://github.com/bineetNaidu/chatify/pull/6) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
 <!--END_SECTION:activity-->
 
 
