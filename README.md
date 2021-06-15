@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/15) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
-2. 💪 Opened PR [#15](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/15) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
-3. ❗️ Closed issue [#6](https://github.com/bineetNaidu/stories/issues/6) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
-4. ❗️ Closed issue [#14](https://github.com/bineetNaidu/karban/issues/14) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
-5. 🗣 Commented on [#14](https://github.com/bineetNaidu/karban/issues/14) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+1. 🎉 Merged PR [#16](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/16) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+2. 💪 Opened PR [#16](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/16) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+3. 🎉 Merged PR [#15](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/15) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+4. 💪 Opened PR [#15](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/15) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+5. ❗️ Closed issue [#6](https://github.com/bineetNaidu/stories/issues/6) in [bineetNaidu/stories](https://github.com/bineetNaidu/stories)
 <!--END_SECTION:activity-->
 
 
