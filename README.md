@@ -37,10 +37,10 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/bineetNaidu/create-ts-api/issues/8) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-2. 🗣 Commented on [#8](https://github.com/bineetNaidu/create-ts-api/issues/8) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+1. 💪 Opened PR [#112](https://github.com/hydralite/hydralite/pull/112) in [hydralite/hydralite](https://github.com/hydralite/hydralite)
+2. ❗️ Closed issue [#8](https://github.com/bineetNaidu/create-ts-api/issues/8) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
 3. 🗣 Commented on [#8](https://github.com/bineetNaidu/create-ts-api/issues/8) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-4. 🎉 Merged PR [#16](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/16) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+4. 🗣 Commented on [#8](https://github.com/bineetNaidu/create-ts-api/issues/8) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
 5. 💪 Opened PR [#16](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/16) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
 <!--END_SECTION:activity-->
 
