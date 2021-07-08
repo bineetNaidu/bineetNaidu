@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/bradtraversy/passgen/issues/1) in [bradtraversy/passgen](https://github.com/bradtraversy/passgen)
-2. 🗣 Commented on [#1](https://github.com/bradtraversy/passgen/issues/1) in [bradtraversy/passgen](https://github.com/bradtraversy/passgen)
-3. ❗️ Closed issue [#1](https://github.com/bineetNaidu/lireddit/issues/1) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
-4. ❗️ Closed issue [#9](https://github.com/pandurijal/todolite/issues/9) in [pandurijal/todolite](https://github.com/pandurijal/todolite)
-5. ❗️ Opened issue [#1](https://github.com/bradtraversy/passgen/issues/1) in [bradtraversy/passgen](https://github.com/bradtraversy/passgen)
+1. 🎉 Merged PR [#7](https://github.com/bineetNaidu/chatify/pull/7) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
+2. ❗️ Closed issue [#1](https://github.com/bradtraversy/passgen/issues/1) in [bradtraversy/passgen](https://github.com/bradtraversy/passgen)
+3. 🗣 Commented on [#1](https://github.com/bradtraversy/passgen/issues/1) in [bradtraversy/passgen](https://github.com/bradtraversy/passgen)
+4. ❗️ Closed issue [#1](https://github.com/bineetNaidu/lireddit/issues/1) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
+5. ❗️ Closed issue [#9](https://github.com/pandurijal/todolite/issues/9) in [pandurijal/todolite](https://github.com/pandurijal/todolite)
 <!--END_SECTION:activity-->
 
 
