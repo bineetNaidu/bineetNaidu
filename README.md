@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/bineetNaidu/CRM/issues/3) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
-2. ❗️ Opened issue [#2](https://github.com/bineetNaidu/CRM/issues/2) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
-3. 🗣 Commented on [#1](https://github.com/bineetNaidu/CRM/issues/1) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
-4. 🎉 Merged PR [#7](https://github.com/bineetNaidu/chatify/pull/7) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
-5. ❗️ Closed issue [#1](https://github.com/bradtraversy/passgen/issues/1) in [bradtraversy/passgen](https://github.com/bradtraversy/passgen)
+1. 🎉 Merged PR [#4](https://github.com/bineetNaidu/CRM/pull/4) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+2. ❗️ Closed issue [#1](https://github.com/bineetNaidu/CRM/issues/1) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+3. 💪 Opened PR [#4](https://github.com/bineetNaidu/CRM/pull/4) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+4. ❗️ Opened issue [#3](https://github.com/bineetNaidu/CRM/issues/3) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+5. ❗️ Opened issue [#2](https://github.com/bineetNaidu/CRM/issues/2) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
 <!--END_SECTION:activity-->
 
 
