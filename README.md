@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/bineetNaidu/chatify/pull/7) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
-2. ❗️ Closed issue [#1](https://github.com/bradtraversy/passgen/issues/1) in [bradtraversy/passgen](https://github.com/bradtraversy/passgen)
-3. 🗣 Commented on [#1](https://github.com/bradtraversy/passgen/issues/1) in [bradtraversy/passgen](https://github.com/bradtraversy/passgen)
-4. ❗️ Closed issue [#1](https://github.com/bineetNaidu/lireddit/issues/1) in [bineetNaidu/lireddit](https://github.com/bineetNaidu/lireddit)
-5. ❗️ Closed issue [#9](https://github.com/pandurijal/todolite/issues/9) in [pandurijal/todolite](https://github.com/pandurijal/todolite)
+1. ❗️ Opened issue [#3](https://github.com/bineetNaidu/CRM/issues/3) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+2. ❗️ Opened issue [#2](https://github.com/bineetNaidu/CRM/issues/2) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+3. 🗣 Commented on [#1](https://github.com/bineetNaidu/CRM/issues/1) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+4. 🎉 Merged PR [#7](https://github.com/bineetNaidu/chatify/pull/7) in [bineetNaidu/chatify](https://github.com/bineetNaidu/chatify)
+5. ❗️ Closed issue [#1](https://github.com/bradtraversy/passgen/issues/1) in [bradtraversy/passgen](https://github.com/bradtraversy/passgen)
 <!--END_SECTION:activity-->
 
 
