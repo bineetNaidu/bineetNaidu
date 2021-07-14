@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1994](https://github.com/EddieHubCommunity/support/issues/1994) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Opened issue [#6](https://github.com/bineetNaidu/CRM/issues/6) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
-3. ❗️ Opened issue [#5](https://github.com/bineetNaidu/CRM/issues/5) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
-4. 🎉 Merged PR [#4](https://github.com/bineetNaidu/CRM/pull/4) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
-5. ❗️ Closed issue [#1](https://github.com/bineetNaidu/CRM/issues/1) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+1. ❗️ Opened issue [#8](https://github.com/bineetNaidu/CRM/issues/8) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+2. ❗️ Opened issue [#7](https://github.com/bineetNaidu/CRM/issues/7) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+3. ❗️ Opened issue [#1994](https://github.com/EddieHubCommunity/support/issues/1994) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. ❗️ Opened issue [#6](https://github.com/bineetNaidu/CRM/issues/6) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+5. ❗️ Opened issue [#5](https://github.com/bineetNaidu/CRM/issues/5) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
 <!--END_SECTION:activity-->
 
 
