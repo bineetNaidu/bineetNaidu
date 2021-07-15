@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/bineetNaidu/CRM/pull/9) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
-2. ❗️ Closed issue [#2](https://github.com/bineetNaidu/CRM/issues/2) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
-3. 💪 Opened PR [#9](https://github.com/bineetNaidu/CRM/pull/9) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
-4. ❗️ Opened issue [#8](https://github.com/bineetNaidu/CRM/issues/8) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
-5. ❗️ Opened issue [#7](https://github.com/bineetNaidu/CRM/issues/7) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+1. ❗️ Opened issue [#10](https://github.com/bineetNaidu/CRM/issues/10) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+2. 🎉 Merged PR [#9](https://github.com/bineetNaidu/CRM/pull/9) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+3. ❗️ Closed issue [#2](https://github.com/bineetNaidu/CRM/issues/2) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+4. 💪 Opened PR [#9](https://github.com/bineetNaidu/CRM/pull/9) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+5. ❗️ Opened issue [#8](https://github.com/bineetNaidu/CRM/issues/8) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
 <!--END_SECTION:activity-->
 
 
