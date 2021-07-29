@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/bineetNaidu/create-ts-api/pull/17) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-2. ❗️ Closed issue [#13](https://github.com/bineetNaidu/create-ts-api/issues/13) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-3. 💪 Opened PR [#17](https://github.com/bineetNaidu/create-ts-api/pull/17) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-4. 🗣 Commented on [#6](https://github.com/DreamsOfImran/covid-global/issues/6) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
-5. 🗣 Commented on [#13](https://github.com/bineetNaidu/create-ts-api/issues/13) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+1. ❗️ Closed issue [#6](https://github.com/DreamsOfImran/covid-global/issues/6) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
+2. ❌ Closed PR [#10](https://github.com/DreamsOfImran/covid-global/pull/10) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
+3. 🎉 Merged PR [#17](https://github.com/bineetNaidu/create-ts-api/pull/17) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+4. ❗️ Closed issue [#13](https://github.com/bineetNaidu/create-ts-api/issues/13) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+5. 💪 Opened PR [#17](https://github.com/bineetNaidu/create-ts-api/pull/17) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
 <!--END_SECTION:activity-->
 
 
