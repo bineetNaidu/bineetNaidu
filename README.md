@@ -4,8 +4,8 @@
 
 -   🔭 My current [working ons](https://gist.github.com/bineetNaidu/9af4afdb704951f548d30d714b0c5879)
 -   🌱 I’m currently learning  WebSockets w/ [SocketIO](https://socket.io/) And Postgresql 😎.
-- 💬 Ask me about: Nodejs , PostgreSQL, Mongo, React or related to MERN / PERN stack
-- 📫 How to reach me: [<img alt="bineetNaidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/bineetNaidu) | [<img alt="bineetNaidu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/bineet_naidu/)
+- 💬 Ask me about: web developement.
+- 📫 How to reach me: https://linktr.ee/bineetNaidu
 - 😄 Pronouns: he / him / his
 -   🥅 2021 Goal: contribute more to Open Source project
     -   🤔 2022 Goal: The History book will be re-written...
