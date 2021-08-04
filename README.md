@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/bineetNaidu/InventoryApp/issues/3) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-2. 🗣 Commented on [#125](https://github.com/expressjs/generator/issues/125) in [expressjs/generator](https://github.com/expressjs/generator)
-3. ❗️ Closed issue [#6](https://github.com/DreamsOfImran/covid-global/issues/6) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
-4. ❌ Closed PR [#10](https://github.com/DreamsOfImran/covid-global/pull/10) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
-5. 🎉 Merged PR [#17](https://github.com/bineetNaidu/create-ts-api/pull/17) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+1. 🎉 Merged PR [#7](https://github.com/bineetNaidu/InventoryApp/pull/7) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
+2. 💪 Opened PR [#7](https://github.com/bineetNaidu/InventoryApp/pull/7) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
+3. ❗️ Closed issue [#3](https://github.com/bineetNaidu/InventoryApp/issues/3) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
+4. 🗣 Commented on [#125](https://github.com/expressjs/generator/issues/125) in [expressjs/generator](https://github.com/expressjs/generator)
+5. ❗️ Closed issue [#6](https://github.com/DreamsOfImran/covid-global/issues/6) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
 <!--END_SECTION:activity-->
 
 
