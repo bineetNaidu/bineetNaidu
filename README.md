@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/bineetNaidu/InventoryApp/pull/7) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-2. 💪 Opened PR [#7](https://github.com/bineetNaidu/InventoryApp/pull/7) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-3. ❗️ Closed issue [#3](https://github.com/bineetNaidu/InventoryApp/issues/3) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
-4. 🗣 Commented on [#125](https://github.com/expressjs/generator/issues/125) in [expressjs/generator](https://github.com/expressjs/generator)
-5. ❗️ Closed issue [#6](https://github.com/DreamsOfImran/covid-global/issues/6) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
+1. 🎉 Merged PR [#12](https://github.com/bineetNaidu/best-printers/pull/12) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+2. 🎉 Merged PR [#14](https://github.com/bineetNaidu/CRM/pull/14) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+3. 🎉 Merged PR [#7](https://github.com/bineetNaidu/InventoryApp/pull/7) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
+4. 💪 Opened PR [#7](https://github.com/bineetNaidu/InventoryApp/pull/7) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
+5. ❗️ Closed issue [#3](https://github.com/bineetNaidu/InventoryApp/issues/3) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
 <!--END_SECTION:activity-->
 
 
