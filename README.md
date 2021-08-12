@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/bineetNaidu/karban/pull/15) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
-2. 💪 Opened PR [#15](https://github.com/bineetNaidu/karban/pull/15) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
-3. 🎉 Merged PR [#12](https://github.com/bineetNaidu/best-printers/pull/12) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
-4. 🎉 Merged PR [#14](https://github.com/bineetNaidu/CRM/pull/14) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
-5. 🎉 Merged PR [#7](https://github.com/bineetNaidu/InventoryApp/pull/7) in [bineetNaidu/InventoryApp](https://github.com/bineetNaidu/InventoryApp)
+1. 🎉 Merged PR [#16](https://github.com/bineetNaidu/karban/pull/16) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+2. 💪 Opened PR [#16](https://github.com/bineetNaidu/karban/pull/16) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+3. 🎉 Merged PR [#15](https://github.com/bineetNaidu/karban/pull/15) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+4. 💪 Opened PR [#15](https://github.com/bineetNaidu/karban/pull/15) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+5. 🎉 Merged PR [#12](https://github.com/bineetNaidu/best-printers/pull/12) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
 <!--END_SECTION:activity-->
 
 
