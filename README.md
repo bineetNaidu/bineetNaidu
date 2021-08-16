@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/17) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
-2. 💪 Opened PR [#17](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/17) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
-3. 🎉 Merged PR [#9](https://github.com/bineetNaidu/YelpCamp/pull/9) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
-4. 🎉 Merged PR [#16](https://github.com/bineetNaidu/karban/pull/16) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
-5. 💪 Opened PR [#16](https://github.com/bineetNaidu/karban/pull/16) in [bineetNaidu/karban](https://github.com/bineetNaidu/karban)
+1. 🎉 Merged PR [#1](https://github.com/bineetNaidu/links.bineetnaidu.io/pull/1) in [bineetNaidu/links.bineetnaidu.io](https://github.com/bineetNaidu/links.bineetnaidu.io)
+2. 💪 Opened PR [#1](https://github.com/bineetNaidu/links.bineetnaidu.io/pull/1) in [bineetNaidu/links.bineetnaidu.io](https://github.com/bineetNaidu/links.bineetnaidu.io)
+3. 🎉 Merged PR [#17](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/17) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+4. 💪 Opened PR [#17](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/17) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+5. 🎉 Merged PR [#9](https://github.com/bineetNaidu/YelpCamp/pull/9) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
 <!--END_SECTION:activity-->
 
 
