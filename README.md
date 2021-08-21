@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/bineetNaidu/best-printers/pull/13) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
-2. 🎉 Merged PR [#15](https://github.com/bineetNaidu/CRM/pull/15) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
-3. 🎉 Merged PR [#2](https://github.com/bineetNaidu/bineetnaiduapps/pull/2) in [bineetNaidu/bineetnaiduapps](https://github.com/bineetNaidu/bineetnaiduapps)
-4. 💪 Opened PR [#2](https://github.com/bineetNaidu/bineetnaiduapps/pull/2) in [bineetNaidu/bineetnaiduapps](https://github.com/bineetNaidu/bineetnaiduapps)
-5. 🎉 Merged PR [#1](https://github.com/bineetNaidu/links.bineetnaidu.io/pull/1) in [bineetNaidu/links.bineetnaidu.io](https://github.com/bineetNaidu/links.bineetnaidu.io)
+1. 🎉 Merged PR [#15](https://github.com/bineetNaidu/best-printers/pull/15) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+2. 🎉 Merged PR [#13](https://github.com/bineetNaidu/best-printers/pull/13) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
+3. 🎉 Merged PR [#15](https://github.com/bineetNaidu/CRM/pull/15) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+4. 🎉 Merged PR [#2](https://github.com/bineetNaidu/bineetnaiduapps/pull/2) in [bineetNaidu/bineetnaiduapps](https://github.com/bineetNaidu/bineetnaiduapps)
+5. 💪 Opened PR [#2](https://github.com/bineetNaidu/bineetnaiduapps/pull/2) in [bineetNaidu/bineetnaiduapps](https://github.com/bineetNaidu/bineetnaiduapps)
 <!--END_SECTION:activity-->
 
 
