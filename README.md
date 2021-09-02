@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/bineetNaidu/create-ts-api/pull/20) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-2. 🎉 Merged PR [#17](https://github.com/bineetNaidu/CRM/pull/17) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
-3. 🎉 Merged PR [#16](https://github.com/bineetNaidu/best-printers/pull/16) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
-4. 🎉 Merged PR [#16](https://github.com/bineetNaidu/CRM/pull/16) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
-5. ❗️ Reopened issue [#18](https://github.com/bineetNaidu/create-ts-api/issues/18) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+1. 🎉 Merged PR [#20](https://github.com/bineetNaidu/create-ts-api/pull/20) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+2. ❗️ Closed issue [#18](https://github.com/bineetNaidu/create-ts-api/issues/18) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+3. 💪 Opened PR [#20](https://github.com/bineetNaidu/create-ts-api/pull/20) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+4. 🎉 Merged PR [#17](https://github.com/bineetNaidu/CRM/pull/17) in [bineetNaidu/CRM](https://github.com/bineetNaidu/CRM)
+5. 🎉 Merged PR [#16](https://github.com/bineetNaidu/best-printers/pull/16) in [bineetNaidu/best-printers](https://github.com/bineetNaidu/best-printers)
 <!--END_SECTION:activity-->
 
 
