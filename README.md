@@ -3,7 +3,7 @@
 ## I'm a passionate Developer
 
 -   🔭 My current [working ons](https://gist.github.com/bineetNaidu/9af4afdb704951f548d30d714b0c5879)
--   🌱 I’m currently learning  WebSockets w/ [SocketIO](https://socket.io/) And Postgresql 😎.
+-   🌱 I’m currently not learning anything yet!.
 - 💬 Ask me about: web developement.
 - 📫 How to reach me: https://linktr.ee/bineetNaidu
 - 😄 Pronouns: he / him / his
