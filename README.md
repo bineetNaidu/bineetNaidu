@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/samz5320/Data4ALL/issues/3) in [samz5320/Data4ALL](https://github.com/samz5320/Data4ALL)
-2. 🗣 Commented on [#1](https://github.com/ISTE-VIT/Projects-Archive/issues/1) in [ISTE-VIT/Projects-Archive](https://github.com/ISTE-VIT/Projects-Archive)
-3. 🗣 Commented on [#1](https://github.com/AryanShinde/ColorPalette/issues/1) in [AryanShinde/ColorPalette](https://github.com/AryanShinde/ColorPalette)
-4. 🗣 Commented on [#24](https://github.com/pavanjoshi914/Front-End-Development/issues/24) in [pavanjoshi914/Front-End-Development](https://github.com/pavanjoshi914/Front-End-Development)
-5. 🗣 Commented on [#3](https://github.com/samz5320/Data4ALL/issues/3) in [samz5320/Data4ALL](https://github.com/samz5320/Data4ALL)
+1. 🗣 Commented on [#24](https://github.com/pavanjoshi914/Front-End-Development/issues/24) in [pavanjoshi914/Front-End-Development](https://github.com/pavanjoshi914/Front-End-Development)
+2. 🗣 Commented on [#24](https://github.com/pavanjoshi914/Front-End-Development/issues/24) in [pavanjoshi914/Front-End-Development](https://github.com/pavanjoshi914/Front-End-Development)
+3. 🗣 Commented on [#3](https://github.com/samz5320/Data4ALL/issues/3) in [samz5320/Data4ALL](https://github.com/samz5320/Data4ALL)
+4. 🗣 Commented on [#1](https://github.com/ISTE-VIT/Projects-Archive/issues/1) in [ISTE-VIT/Projects-Archive](https://github.com/ISTE-VIT/Projects-Archive)
+5. 🗣 Commented on [#1](https://github.com/AryanShinde/ColorPalette/issues/1) in [AryanShinde/ColorPalette](https://github.com/AryanShinde/ColorPalette)
 <!--END_SECTION:activity-->
 
 
