@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/bineetNaidu/edificationOnline/pull/3) in [bineetNaidu/edificationOnline](https://github.com/bineetNaidu/edificationOnline)
-2. 🎉 Merged PR [#6](https://github.com/bineetNaidu/surf-shop/pull/6) in [bineetNaidu/surf-shop](https://github.com/bineetNaidu/surf-shop)
-3. 🎉 Merged PR [#5](https://github.com/bineetNaidu/surf-shop/pull/5) in [bineetNaidu/surf-shop](https://github.com/bineetNaidu/surf-shop)
-4. 🎉 Merged PR [#10](https://github.com/bineetNaidu/YelpCamp/pull/10) in [bineetNaidu/YelpCamp](https://github.com/bineetNaidu/YelpCamp)
-5. 🎉 Merged PR [#20](https://github.com/bineetNaidu/create-ts-api/pull/20) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+1. 🗣 Commented on [#3](https://github.com/samz5320/Data4ALL/issues/3) in [samz5320/Data4ALL](https://github.com/samz5320/Data4ALL)
+2. 🗣 Commented on [#1](https://github.com/ISTE-VIT/Projects-Archive/issues/1) in [ISTE-VIT/Projects-Archive](https://github.com/ISTE-VIT/Projects-Archive)
+3. 🗣 Commented on [#1](https://github.com/AryanShinde/ColorPalette/issues/1) in [AryanShinde/ColorPalette](https://github.com/AryanShinde/ColorPalette)
+4. 🗣 Commented on [#24](https://github.com/pavanjoshi914/Front-End-Development/issues/24) in [pavanjoshi914/Front-End-Development](https://github.com/pavanjoshi914/Front-End-Development)
+5. 🗣 Commented on [#3](https://github.com/samz5320/Data4ALL/issues/3) in [samz5320/Data4ALL](https://github.com/samz5320/Data4ALL)
 <!--END_SECTION:activity-->
 
 
