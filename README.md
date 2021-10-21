@@ -37,11 +37,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/bineetNaidu/book-store/issues/1) in [bineetNaidu/book-store](https://github.com/bineetNaidu/book-store)
-2. 🗣 Commented on [#24](https://github.com/pavanjoshi914/Front-End-Development/issues/24) in [pavanjoshi914/Front-End-Development](https://github.com/pavanjoshi914/Front-End-Development)
-3. 🗣 Commented on [#24](https://github.com/pavanjoshi914/Front-End-Development/issues/24) in [pavanjoshi914/Front-End-Development](https://github.com/pavanjoshi914/Front-End-Development)
-4. 🗣 Commented on [#3](https://github.com/samz5320/Data4ALL/issues/3) in [samz5320/Data4ALL](https://github.com/samz5320/Data4ALL)
-5. 🗣 Commented on [#1](https://github.com/ISTE-VIT/Projects-Archive/issues/1) in [ISTE-VIT/Projects-Archive](https://github.com/ISTE-VIT/Projects-Archive)
+1. 🎉 Merged PR [#18](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/18) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+2. 💪 Opened PR [#18](https://github.com/bineetNaidu/api.bineetnaidu.io/pull/18) in [bineetNaidu/api.bineetnaidu.io](https://github.com/bineetNaidu/api.bineetnaidu.io)
+3. ❗️ Closed issue [#1](https://github.com/bineetNaidu/book-store/issues/1) in [bineetNaidu/book-store](https://github.com/bineetNaidu/book-store)
+4. 🗣 Commented on [#24](https://github.com/pavanjoshi914/Front-End-Development/issues/24) in [pavanjoshi914/Front-End-Development](https://github.com/pavanjoshi914/Front-End-Development)
+5. 🗣 Commented on [#24](https://github.com/pavanjoshi914/Front-End-Development/issues/24) in [pavanjoshi914/Front-End-Development](https://github.com/pavanjoshi914/Front-End-Development)
 <!--END_SECTION:activity-->
 
 
