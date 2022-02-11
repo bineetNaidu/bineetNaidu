@@ -4,7 +4,7 @@
 - 🔭 My current [working ons](https://gist.github.com/bineetNaidu/9af4afdb704951f548d30d714b0c5879)
 - 🌱 I’m currently about docker and Kubernetes!.
 - 💬 Ask me about: web developement.
-- 📫 How to reach me: https://linktr.ee/bineetNaidu
+- 📫 How to reach me: [links](https://links-bineetnaiduio.vercel.app/)
 - 😄 Pronouns: he / him / his
 - ⚡ Fun fact: I love to watch and play Football
 
