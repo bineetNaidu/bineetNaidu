@@ -28,11 +28,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0 — UI Overhaul & Performance Optimizations ⚡](https://github.com/bineetNaidu/zapr-cli/releases/tag/v1.1.0) in [bineetNaidu/zapr-cli](https://github.com/bineetNaidu/zapr-cli)
-2. 🎉 Merged PR [#1](https://github.com/bineetNaidu/open-when/pull/1) in [bineetNaidu/open-when](https://github.com/bineetNaidu/open-when)
-3. 💪 Opened PR [#1](https://github.com/bineetNaidu/open-when/pull/1) in [bineetNaidu/open-when](https://github.com/bineetNaidu/open-when)
-4. 🎉 Merged PR [#1](https://github.com/bineetNaidu/expo-ecom-app-storefront/pull/1) in [bineetNaidu/expo-ecom-app-storefront](https://github.com/bineetNaidu/expo-ecom-app-storefront)
-5. 💪 Opened PR [#1](https://github.com/bineetNaidu/expo-ecom-app-storefront/pull/1) in [bineetNaidu/expo-ecom-app-storefront](https://github.com/bineetNaidu/expo-ecom-app-storefront)
+1. ℹ️ Labeled issue [#29](https://github.com/bineetNaidu/create-ts-api/issues/29) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+2. ℹ️ Labeled issue [#31](https://github.com/bineetNaidu/create-ts-api/issues/31) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+3. ℹ️ Labeled issue [#31](https://github.com/bineetNaidu/create-ts-api/issues/31) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+4. ❗ Opened issue [#31](https://github.com/bineetNaidu/create-ts-api/issues/31) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+5. ❗ Opened issue [#30](https://github.com/bineetNaidu/create-ts-api/issues/30) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
 <!--END_SECTION:activity-->
 
 
