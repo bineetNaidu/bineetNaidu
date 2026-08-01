@@ -29,10 +29,10 @@
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v1.1.0 — UI Overhaul & Performance Optimizations ⚡](https://github.com/bineetNaidu/zapr-cli/releases/tag/v1.1.0) in [bineetNaidu/zapr-cli](https://github.com/bineetNaidu/zapr-cli)
-2. 🚀 Published release [v1.1.0 — UI Overhaul & Performance Optimizations ⚡](https://github.com/bineetNaidu/zapr-cli/releases/tag/untagged-4b9627ff4509261a30e0) in [bineetNaidu/zapr-cli](https://github.com/bineetNaidu/zapr-cli)
-3. 🎉 Merged PR [#1](https://github.com/bineetNaidu/open-when/pull/1) in [bineetNaidu/open-when](https://github.com/bineetNaidu/open-when)
-4. 💪 Opened PR [#1](https://github.com/bineetNaidu/open-when/pull/1) in [bineetNaidu/open-when](https://github.com/bineetNaidu/open-when)
-5. 🎉 Merged PR [#1](https://github.com/bineetNaidu/expo-ecom-app-storefront/pull/1) in [bineetNaidu/expo-ecom-app-storefront](https://github.com/bineetNaidu/expo-ecom-app-storefront)
+2. 🎉 Merged PR [#1](https://github.com/bineetNaidu/open-when/pull/1) in [bineetNaidu/open-when](https://github.com/bineetNaidu/open-when)
+3. 💪 Opened PR [#1](https://github.com/bineetNaidu/open-when/pull/1) in [bineetNaidu/open-when](https://github.com/bineetNaidu/open-when)
+4. 🎉 Merged PR [#1](https://github.com/bineetNaidu/expo-ecom-app-storefront/pull/1) in [bineetNaidu/expo-ecom-app-storefront](https://github.com/bineetNaidu/expo-ecom-app-storefront)
+5. 💪 Opened PR [#1](https://github.com/bineetNaidu/expo-ecom-app-storefront/pull/1) in [bineetNaidu/expo-ecom-app-storefront](https://github.com/bineetNaidu/expo-ecom-app-storefront)
 <!--END_SECTION:activity-->
 
 
