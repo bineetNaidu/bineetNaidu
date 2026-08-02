@@ -28,11 +28,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#27](https://github.com/bineetNaidu/create-ts-api/issues/27) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-2. ℹ️ Assigned issue [#26](https://github.com/bineetNaidu/create-ts-api/issues/26) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-3. ℹ️ Labeled issue [#29](https://github.com/bineetNaidu/create-ts-api/issues/29) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-4. ℹ️ Labeled issue [#31](https://github.com/bineetNaidu/create-ts-api/issues/31) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-5. ℹ️ Labeled issue [#31](https://github.com/bineetNaidu/create-ts-api/issues/31) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+1. ℹ️ Labeled PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+2. ℹ️ Labeled PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+3. 💪 Opened PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+4. ℹ️ Assigned PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+5. ℹ️ Assigned issue [#27](https://github.com/bineetNaidu/create-ts-api/issues/27) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
 <!--END_SECTION:activity-->
 
 
