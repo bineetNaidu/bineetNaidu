@@ -28,11 +28,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+1. 🚀 Published release [v1.1.1 Release Notes](https://github.com/bineetNaidu/zapr-cli/releases/tag/v1.1.1) in [bineetNaidu/zapr-cli](https://github.com/bineetNaidu/zapr-cli)
 2. ℹ️ Labeled PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-3. 💪 Opened PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-4. ℹ️ Assigned PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-5. ℹ️ Assigned issue [#27](https://github.com/bineetNaidu/create-ts-api/issues/27) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+3. ℹ️ Labeled PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+4. 💪 Opened PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+5. ℹ️ Assigned PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
 <!--END_SECTION:activity-->
 
 
