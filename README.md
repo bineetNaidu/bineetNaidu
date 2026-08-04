@@ -62,11 +62,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-2. 🚀 Published release [v1.1.1 Release Notes](https://github.com/bineetNaidu/zapr-cli/releases/tag/v1.1.1) in [bineetNaidu/zapr-cli](https://github.com/bineetNaidu/zapr-cli)
-3. ℹ️ Labeled PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-4. ℹ️ Labeled PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-5. 💪 Opened PR [#32](https://github.com/bineetNaidu/create-ts-api/pull/32) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+1. 🚀 Published release [🔥 v2.0.0 — Complete CLI overhaul](https://github.com/bineetNaidu/create-ts-api/releases/tag/v2.0.0) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+2. 🔒 Closed issue [#31](https://github.com/bineetNaidu/create-ts-api/issues/31) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+3. 🔒 Closed issue [#30](https://github.com/bineetNaidu/create-ts-api/issues/30) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+4. 🔒 Closed issue [#29](https://github.com/bineetNaidu/create-ts-api/issues/29) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+5. 🔒 Closed issue [#28](https://github.com/bineetNaidu/create-ts-api/issues/28) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
 <!--END_SECTION:activity-->
 
 
