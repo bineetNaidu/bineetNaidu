@@ -62,11 +62,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.1 — CLI UX Improvements & Clean Template Labels](https://github.com/bineetNaidu/create-ts-api/releases/tag/v2.0.1) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-2. ℹ️ Labeled issue [#37](https://github.com/bineetNaidu/create-ts-api/issues/37) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+1. ❗ Opened issue [#38](https://github.com/bineetNaidu/create-ts-api/issues/38) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+2. 🚀 Published release [v2.0.1 — CLI UX Improvements & Clean Template Labels](https://github.com/bineetNaidu/create-ts-api/releases/tag/v2.0.1) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
 3. ℹ️ Labeled issue [#37](https://github.com/bineetNaidu/create-ts-api/issues/37) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-4. ❗ Opened issue [#37](https://github.com/bineetNaidu/create-ts-api/issues/37) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-5. ℹ️ Assigned issue [#37](https://github.com/bineetNaidu/create-ts-api/issues/37) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+4. ℹ️ Labeled issue [#37](https://github.com/bineetNaidu/create-ts-api/issues/37) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+5. ❗ Opened issue [#37](https://github.com/bineetNaidu/create-ts-api/issues/37) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
 <!--END_SECTION:activity-->
 
 
