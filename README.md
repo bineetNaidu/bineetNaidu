@@ -10,7 +10,7 @@
 ### 🚀 Ventures
 
 #### 🛠️ Actively Maintaining Open Source & Tools
-* ⚡ **[Zapr CLI](https://github.com/bineetNaidu/create-ts-api)** — Blazing fast node_modules and build output cleaner CLI tool.
+* ⚡ **[Zapr CLI](https://github.com/bineetNaidu/zapr-cli/)** — Blazing fast node_modules and build output cleaner CLI tool.
 * 📦 **[create-ts-api](https://github.com/bineetNaidu/create-ts-api)** — Scaffolding CLI to instantly generate production-ready TypeScript API starters.
 <!-- * 🎨 **VS Code Theme Extension** — Custom theme tailored for high contrast and modern syntax highlighting. -->
 * ➕ *(More tools in development)*
