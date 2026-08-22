@@ -62,11 +62,11 @@
 ## My recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/bineetNaidu/create-ts-api/issues/36#issuecomment-5318876907) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-2. 🔒 Closed issue [#36](https://github.com/bineetNaidu/create-ts-api/issues/36) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-3. 🚀 Published release [Release v2.1.0 — New Prisma ORM Starter, Pino Logging, Security & Dockerization 🚀](https://github.com/bineetNaidu/create-ts-api/releases/tag/v2.1.0) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-4. ❗ Opened issue [#38](https://github.com/bineetNaidu/create-ts-api/issues/38) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
-5. 🚀 Published release [v2.0.1 — CLI UX Improvements & Clean Template Labels](https://github.com/bineetNaidu/create-ts-api/releases/tag/v2.0.1) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+1. 🗣 Commented on [#48091](https://github.com/expo/expo/issues/48091#issuecomment-5382515651) in [expo/expo](https://github.com/expo/expo)
+2. 🗣 Commented on [#36](https://github.com/bineetNaidu/create-ts-api/issues/36#issuecomment-5318876907) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+3. 🔒 Closed issue [#36](https://github.com/bineetNaidu/create-ts-api/issues/36) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+4. 🚀 Published release [Release v2.1.0 — New Prisma ORM Starter, Pino Logging, Security & Dockerization 🚀](https://github.com/bineetNaidu/create-ts-api/releases/tag/v2.1.0) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
+5. ❗ Opened issue [#38](https://github.com/bineetNaidu/create-ts-api/issues/38) in [bineetNaidu/create-ts-api](https://github.com/bineetNaidu/create-ts-api)
 <!--END_SECTION:activity-->
 
 
